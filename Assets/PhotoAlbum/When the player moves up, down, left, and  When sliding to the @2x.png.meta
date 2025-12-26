@@ -1,0 +1,4522 @@
+fileFormatVersion: 2
+guid: dedd729da1a8f714c9eba03830ce987d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4302866447611565087
+    second: When the player moves up, down, left, and  When sliding to the @2x_0
+  - first:
+      213: -751182065868351569
+    second: When the player moves up, down, left, and  When sliding to the @2x_1
+  - first:
+      213: 1206748243674166391
+    second: When the player moves up, down, left, and  When sliding to the @2x_2
+  - first:
+      213: -60946622176440378
+    second: When the player moves up, down, left, and  When sliding to the @2x_3
+  - first:
+      213: 8316904579850911156
+    second: When the player moves up, down, left, and  When sliding to the @2x_4
+  - first:
+      213: -911342620401627188
+    second: When the player moves up, down, left, and  When sliding to the @2x_5
+  - first:
+      213: -294118155210685359
+    second: When the player moves up, down, left, and  When sliding to the @2x_6
+  - first:
+      213: 6726085503424762994
+    second: When the player moves up, down, left, and  When sliding to the @2x_7
+  - first:
+      213: 6557069463983887146
+    second: When the player moves up, down, left, and  When sliding to the @2x_8
+  - first:
+      213: 3497648564981489703
+    second: When the player moves up, down, left, and  When sliding to the @2x_9
+  - first:
+      213: 742135171254245140
+    second: When the player moves up, down, left, and  When sliding to the @2x_10
+  - first:
+      213: 2917080726222464069
+    second: When the player moves up, down, left, and  When sliding to the @2x_11
+  - first:
+      213: -8025992211850497048
+    second: When the player moves up, down, left, and  When sliding to the @2x_12
+  - first:
+      213: 810121237461938982
+    second: When the player moves up, down, left, and  When sliding to the @2x_13
+  - first:
+      213: -3154624399773883369
+    second: When the player moves up, down, left, and  When sliding to the @2x_14
+  - first:
+      213: -5451008786892408494
+    second: When the player moves up, down, left, and  When sliding to the @2x_15
+  - first:
+      213: 5375330980556995936
+    second: When the player moves up, down, left, and  When sliding to the @2x_16
+  - first:
+      213: 794318241503075787
+    second: When the player moves up, down, left, and  When sliding to the @2x_17
+  - first:
+      213: -4306755687950657932
+    second: When the player moves up, down, left, and  When sliding to the @2x_18
+  - first:
+      213: 1641529389337797782
+    second: When the player moves up, down, left, and  When sliding to the @2x_19
+  - first:
+      213: -6776467280912102475
+    second: When the player moves up, down, left, and  When sliding to the @2x_20
+  - first:
+      213: 3432018837582393373
+    second: When the player moves up, down, left, and  When sliding to the @2x_21
+  - first:
+      213: -8143447712165178343
+    second: When the player moves up, down, left, and  When sliding to the @2x_22
+  - first:
+      213: 3509672816543414778
+    second: When the player moves up, down, left, and  When sliding to the @2x_23
+  - first:
+      213: -4976887852627145805
+    second: When the player moves up, down, left, and  When sliding to the @2x_24
+  - first:
+      213: 6248111443507283870
+    second: When the player moves up, down, left, and  When sliding to the @2x_25
+  - first:
+      213: 1365590298878428349
+    second: When the player moves up, down, left, and  When sliding to the @2x_26
+  - first:
+      213: 6559677510690243625
+    second: When the player moves up, down, left, and  When sliding to the @2x_27
+  - first:
+      213: 9135334605514629282
+    second: When the player moves up, down, left, and  When sliding to the @2x_28
+  - first:
+      213: 7675436474299909058
+    second: When the player moves up, down, left, and  When sliding to the @2x_29
+  - first:
+      213: 6794599989786380830
+    second: When the player moves up, down, left, and  When sliding to the @2x_30
+  - first:
+      213: 7745980254044818934
+    second: When the player moves up, down, left, and  When sliding to the @2x_31
+  - first:
+      213: -1538304594856770433
+    second: When the player moves up, down, left, and  When sliding to the @2x_32
+  - first:
+      213: 176140687776401611
+    second: When the player moves up, down, left, and  When sliding to the @2x_33
+  - first:
+      213: -5736839034667347251
+    second: When the player moves up, down, left, and  When sliding to the @2x_34
+  - first:
+      213: -8080311738885324286
+    second: When the player moves up, down, left, and  When sliding to the @2x_35
+  - first:
+      213: -6817773682007502044
+    second: When the player moves up, down, left, and  When sliding to the @2x_36
+  - first:
+      213: -1027005618529453568
+    second: When the player moves up, down, left, and  When sliding to the @2x_37
+  - first:
+      213: 4385760652687985415
+    second: When the player moves up, down, left, and  When sliding to the @2x_38
+  - first:
+      213: 6953967294351872059
+    second: When the player moves up, down, left, and  When sliding to the @2x_39
+  - first:
+      213: 6535703761043521753
+    second: When the player moves up, down, left, and  When sliding to the @2x_40
+  - first:
+      213: -1867501449879995265
+    second: When the player moves up, down, left, and  When sliding to the @2x_41
+  - first:
+      213: -8115080176336819259
+    second: When the player moves up, down, left, and  When sliding to the @2x_42
+  - first:
+      213: 8777848917415462230
+    second: When the player moves up, down, left, and  When sliding to the @2x_43
+  - first:
+      213: -7705863553284047740
+    second: When the player moves up, down, left, and  When sliding to the @2x_44
+  - first:
+      213: 2445500642872063786
+    second: When the player moves up, down, left, and  When sliding to the @2x_45
+  - first:
+      213: -8547919529954061885
+    second: When the player moves up, down, left, and  When sliding to the @2x_46
+  - first:
+      213: -8473887243272081439
+    second: When the player moves up, down, left, and  When sliding to the @2x_47
+  - first:
+      213: -2438729475876479305
+    second: When the player moves up, down, left, and  When sliding to the @2x_48
+  - first:
+      213: 7739590634578583863
+    second: When the player moves up, down, left, and  When sliding to the @2x_49
+  - first:
+      213: -6616357282039112141
+    second: When the player moves up, down, left, and  When sliding to the @2x_50
+  - first:
+      213: -3242302987589263910
+    second: When the player moves up, down, left, and  When sliding to the @2x_51
+  - first:
+      213: 1577887464028604392
+    second: When the player moves up, down, left, and  When sliding to the @2x_52
+  - first:
+      213: -7978321666491144598
+    second: When the player moves up, down, left, and  When sliding to the @2x_53
+  - first:
+      213: -3256214535229008179
+    second: When the player moves up, down, left, and  When sliding to the @2x_54
+  - first:
+      213: 4813369364977861840
+    second: When the player moves up, down, left, and  When sliding to the @2x_55
+  - first:
+      213: -5106468132067216476
+    second: When the player moves up, down, left, and  When sliding to the @2x_56
+  - first:
+      213: 5789150306948314178
+    second: When the player moves up, down, left, and  When sliding to the @2x_57
+  - first:
+      213: 59558605981057363
+    second: When the player moves up, down, left, and  When sliding to the @2x_58
+  - first:
+      213: -7342103239104081131
+    second: When the player moves up, down, left, and  When sliding to the @2x_59
+  - first:
+      213: 6043153361171521900
+    second: When the player moves up, down, left, and  When sliding to the @2x_60
+  - first:
+      213: 185751807290292007
+    second: When the player moves up, down, left, and  When sliding to the @2x_61
+  - first:
+      213: 757651741545867326
+    second: When the player moves up, down, left, and  When sliding to the @2x_62
+  - first:
+      213: -463756962018664073
+    second: When the player moves up, down, left, and  When sliding to the @2x_63
+  - first:
+      213: -8180614944971861052
+    second: When the player moves up, down, left, and  When sliding to the @2x_64
+  - first:
+      213: -5079232804382836090
+    second: When the player moves up, down, left, and  When sliding to the @2x_65
+  - first:
+      213: 1050196035559389145
+    second: When the player moves up, down, left, and  When sliding to the @2x_66
+  - first:
+      213: 5692849222592427066
+    second: When the player moves up, down, left, and  When sliding to the @2x_67
+  - first:
+      213: 8054979890452114914
+    second: When the player moves up, down, left, and  When sliding to the @2x_68
+  - first:
+      213: -1867087047852765944
+    second: When the player moves up, down, left, and  When sliding to the @2x_69
+  - first:
+      213: 4082997820756461895
+    second: When the player moves up, down, left, and  When sliding to the @2x_70
+  - first:
+      213: 568185030198002724
+    second: When the player moves up, down, left, and  When sliding to the @2x_71
+  - first:
+      213: 4952987875268892582
+    second: When the player moves up, down, left, and  When sliding to the @2x_72
+  - first:
+      213: 5684350524665107883
+    second: When the player moves up, down, left, and  When sliding to the @2x_73
+  - first:
+      213: -2355738269310872837
+    second: When the player moves up, down, left, and  When sliding to the @2x_74
+  - first:
+      213: 6814491312021015267
+    second: When the player moves up, down, left, and  When sliding to the @2x_75
+  - first:
+      213: 734405673354185644
+    second: When the player moves up, down, left, and  When sliding to the @2x_76
+  - first:
+      213: 4875379478900308138
+    second: When the player moves up, down, left, and  When sliding to the @2x_77
+  - first:
+      213: 6634879684859026406
+    second: When the player moves up, down, left, and  When sliding to the @2x_78
+  - first:
+      213: -1199607779294000971
+    second: When the player moves up, down, left, and  When sliding to the @2x_79
+  - first:
+      213: 5217109955882380296
+    second: When the player moves up, down, left, and  When sliding to the @2x_80
+  - first:
+      213: 1272752624998037691
+    second: When the player moves up, down, left, and  When sliding to the @2x_81
+  - first:
+      213: -4642313578978542369
+    second: When the player moves up, down, left, and  When sliding to the @2x_82
+  - first:
+      213: 6419481265608173564
+    second: When the player moves up, down, left, and  When sliding to the @2x_83
+  - first:
+      213: 3026141397522633044
+    second: When the player moves up, down, left, and  When sliding to the @2x_84
+  - first:
+      213: -1478664406944858583
+    second: When the player moves up, down, left, and  When sliding to the @2x_85
+  - first:
+      213: 277408407812611627
+    second: When the player moves up, down, left, and  When sliding to the @2x_86
+  - first:
+      213: -4527359008834716694
+    second: When the player moves up, down, left, and  When sliding to the @2x_87
+  - first:
+      213: -4426508472338939405
+    second: When the player moves up, down, left, and  When sliding to the @2x_88
+  - first:
+      213: -6073726054610933740
+    second: When the player moves up, down, left, and  When sliding to the @2x_89
+  - first:
+      213: 8355437495787337063
+    second: When the player moves up, down, left, and  When sliding to the @2x_90
+  - first:
+      213: -3718757955793521217
+    second: When the player moves up, down, left, and  When sliding to the @2x_91
+  - first:
+      213: 3475439767238095990
+    second: When the player moves up, down, left, and  When sliding to the @2x_92
+  - first:
+      213: -1029710621951931706
+    second: When the player moves up, down, left, and  When sliding to the @2x_93
+  - first:
+      213: 8443883875733623501
+    second: When the player moves up, down, left, and  When sliding to the @2x_94
+  - first:
+      213: 8116303371259457616
+    second: When the player moves up, down, left, and  When sliding to the @2x_95
+  - first:
+      213: -7713960076522664405
+    second: When the player moves up, down, left, and  When sliding to the @2x_96
+  - first:
+      213: 5222579731050500537
+    second: When the player moves up, down, left, and  When sliding to the @2x_97
+  - first:
+      213: -3657891960961240743
+    second: When the player moves up, down, left, and  When sliding to the @2x_98
+  - first:
+      213: -2144041195891243039
+    second: When the player moves up, down, left, and  When sliding to the @2x_99
+  - first:
+      213: 4759237112638272023
+    second: When the player moves up, down, left, and  When sliding to the @2x_100
+  - first:
+      213: -2771682039580564101
+    second: When the player moves up, down, left, and  When sliding to the @2x_101
+  - first:
+      213: -3550444934682972725
+    second: When the player moves up, down, left, and  When sliding to the @2x_102
+  - first:
+      213: -1421042643532218172
+    second: When the player moves up, down, left, and  When sliding to the @2x_103
+  - first:
+      213: -280016277336161050
+    second: When the player moves up, down, left, and  When sliding to the @2x_104
+  - first:
+      213: -6483723620155686005
+    second: When the player moves up, down, left, and  When sliding to the @2x_105
+  - first:
+      213: -9019065197624162572
+    second: When the player moves up, down, left, and  When sliding to the @2x_106
+  - first:
+      213: 9033314817225549200
+    second: When the player moves up, down, left, and  When sliding to the @2x_107
+  - first:
+      213: 8952165085351004822
+    second: When the player moves up, down, left, and  When sliding to the @2x_108
+  - first:
+      213: 9184434318006506885
+    second: When the player moves up, down, left, and  When sliding to the @2x_109
+  - first:
+      213: 2832126022839527808
+    second: When the player moves up, down, left, and  When sliding to the @2x_110
+  - first:
+      213: 4315461669641679043
+    second: When the player moves up, down, left, and  When sliding to the @2x_111
+  - first:
+      213: 6121150658677853650
+    second: When the player moves up, down, left, and  When sliding to the @2x_112
+  - first:
+      213: 5511385209083827292
+    second: When the player moves up, down, left, and  When sliding to the @2x_113
+  - first:
+      213: -7580706577175108326
+    second: When the player moves up, down, left, and  When sliding to the @2x_114
+  - first:
+      213: -3658340847077018437
+    second: When the player moves up, down, left, and  When sliding to the @2x_115
+  - first:
+      213: -3239100586472577858
+    second: When the player moves up, down, left, and  When sliding to the @2x_116
+  - first:
+      213: 1081269640250752628
+    second: When the player moves up, down, left, and  When sliding to the @2x_117
+  - first:
+      213: 2084224969281696765
+    second: When the player moves up, down, left, and  When sliding to the @2x_118
+  - first:
+      213: -8384967517076365812
+    second: When the player moves up, down, left, and  When sliding to the @2x_119
+  - first:
+      213: -8475791148915197066
+    second: When the player moves up, down, left, and  When sliding to the @2x_120
+  - first:
+      213: -7378767569088671321
+    second: When the player moves up, down, left, and  When sliding to the @2x_121
+  - first:
+      213: 2498852672222051298
+    second: When the player moves up, down, left, and  When sliding to the @2x_122
+  - first:
+      213: 2114301693981376240
+    second: When the player moves up, down, left, and  When sliding to the @2x_123
+  - first:
+      213: 3773579555085388863
+    second: When the player moves up, down, left, and  When sliding to the @2x_124
+  - first:
+      213: -9175113150060472246
+    second: When the player moves up, down, left, and  When sliding to the @2x_125
+  - first:
+      213: -844961698871462794
+    second: When the player moves up, down, left, and  When sliding to the @2x_126
+  - first:
+      213: -8084567055496942755
+    second: When the player moves up, down, left, and  When sliding to the @2x_127
+  - first:
+      213: -7390768341087541006
+    second: When the player moves up, down, left, and  When sliding to the @2x_128
+  - first:
+      213: 6340346117470469746
+    second: When the player moves up, down, left, and  When sliding to the @2x_129
+  - first:
+      213: 4647931471384234599
+    second: When the player moves up, down, left, and  When sliding to the @2x_130
+  - first:
+      213: 8567127420263888238
+    second: When the player moves up, down, left, and  When sliding to the @2x_131
+  - first:
+      213: -1774127477677799599
+    second: When the player moves up, down, left, and  When sliding to the @2x_132
+  - first:
+      213: -6797651092587011649
+    second: When the player moves up, down, left, and  When sliding to the @2x_133
+  - first:
+      213: 6960308958822027766
+    second: When the player moves up, down, left, and  When sliding to the @2x_134
+  - first:
+      213: 983047907960904975
+    second: When the player moves up, down, left, and  When sliding to the @2x_135
+  - first:
+      213: 4099044965477209012
+    second: When the player moves up, down, left, and  When sliding to the @2x_136
+  - first:
+      213: -1373068078543926330
+    second: When the player moves up, down, left, and  When sliding to the @2x_137
+  - first:
+      213: 5330338513134407163
+    second: When the player moves up, down, left, and  When sliding to the @2x_138
+  - first:
+      213: -1545005005481441462
+    second: When the player moves up, down, left, and  When sliding to the @2x_139
+  - first:
+      213: -3794731217109817402
+    second: When the player moves up, down, left, and  When sliding to the @2x_140
+  - first:
+      213: -2111639522389109392
+    second: When the player moves up, down, left, and  When sliding to the @2x_141
+  - first:
+      213: -7837286190344816776
+    second: When the player moves up, down, left, and  When sliding to the @2x_142
+  - first:
+      213: -1382748398685663008
+    second: When the player moves up, down, left, and  When sliding to the @2x_143
+  - first:
+      213: 2213249645764882617
+    second: When the player moves up, down, left, and  When sliding to the @2x_144
+  - first:
+      213: 8851649580071576459
+    second: When the player moves up, down, left, and  When sliding to the @2x_145
+  - first:
+      213: -7376343292486860122
+    second: When the player moves up, down, left, and  When sliding to the @2x_146
+  - first:
+      213: -4506489720774291614
+    second: When the player moves up, down, left, and  When sliding to the @2x_147
+  - first:
+      213: 8051145648968328492
+    second: When the player moves up, down, left, and  When sliding to the @2x_148
+  - first:
+      213: 6160780776289785871
+    second: When the player moves up, down, left, and  When sliding to the @2x_149
+  - first:
+      213: 696457999440221884
+    second: When the player moves up, down, left, and  When sliding to the @2x_150
+  - first:
+      213: -359613984381384083
+    second: When the player moves up, down, left, and  When sliding to the @2x_151
+  - first:
+      213: 6920389020600129198
+    second: When the player moves up, down, left, and  When sliding to the @2x_152
+  - first:
+      213: -3507705665817927454
+    second: When the player moves up, down, left, and  When sliding to the @2x_153
+  - first:
+      213: 9213471916717986160
+    second: When the player moves up, down, left, and  When sliding to the @2x_154
+  - first:
+      213: -1933593523301849557
+    second: When the player moves up, down, left, and  When sliding to the @2x_155
+  - first:
+      213: -1424867328603812179
+    second: When the player moves up, down, left, and  When sliding to the @2x_156
+  - first:
+      213: 373984851108499053
+    second: When the player moves up, down, left, and  When sliding to the @2x_157
+  - first:
+      213: -683974709995208552
+    second: When the player moves up, down, left, and  When sliding to the @2x_158
+  - first:
+      213: -2932252474036561283
+    second: When the player moves up, down, left, and  When sliding to the @2x_159
+  - first:
+      213: -7829926794230119360
+    second: When the player moves up, down, left, and  When sliding to the @2x_160
+  - first:
+      213: 7976156906056101622
+    second: When the player moves up, down, left, and  When sliding to the @2x_161
+  - first:
+      213: 8817504363041774366
+    second: When the player moves up, down, left, and  When sliding to the @2x_162
+  - first:
+      213: 8594452094073018679
+    second: When the player moves up, down, left, and  When sliding to the @2x_163
+  - first:
+      213: -1974194574955928368
+    second: When the player moves up, down, left, and  When sliding to the @2x_164
+  - first:
+      213: 8236194822599869246
+    second: When the player moves up, down, left, and  When sliding to the @2x_165
+  - first:
+      213: -8995549878385622027
+    second: When the player moves up, down, left, and  When sliding to the @2x_166
+  - first:
+      213: -3065576226647401023
+    second: When the player moves up, down, left, and  When sliding to the @2x_167
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 717
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1495dd8c3ad6bb30800000000000000
+      internalID: 4302866447611565087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 717
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7d54a14e34395f0800000000000000
+      internalID: -751182065868351569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 717
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774768d422b3fb010800000000000000
+      internalID: 1206748243674166391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 717
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfc9eabe59772ff0800000000000000
+      internalID: -60946622176440378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 717
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd35d886a49b6370800000000000000
+      internalID: 8316904579850911156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 717
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf894a17b24a53f0800000000000000
+      internalID: -911342620401627188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 717
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1548cac98151bebf0800000000000000
+      internalID: -294118155210685359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 719
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2749988012bd75d50800000000000000
+      internalID: 6726085503424762994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 717
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a231258cfe36ffa50800000000000000
+      internalID: 6557069463983887146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 717
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72060e8a6d42a8030800000000000000
+      internalID: 3497648564981489703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 719
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417dee991089c4a00800000000000000
+      internalID: 742135171254245140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 717
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544e0a3177d8b7820800000000000000
+      internalID: 2917080726222464069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 717
+        width: 116
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3799a5b92fd9090800000000000000
+      internalID: -8025992211850497048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_13
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 717
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6233be729f02e3b00800000000000000
+      internalID: 810121237461938982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 717
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a2b382d58834d0800000000000000
+      internalID: -3154624399773883369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 717
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259beb593602a54b0800000000000000
+      internalID: -5451008786892408494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 717
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d704e0c03099a40800000000000000
+      internalID: 5375330980556995936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_17
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 717
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd576f6b3cf50b00800000000000000
+      internalID: 794318241503075787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_18
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 717
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476de4d15845b34c0800000000000000
+      internalID: -4306755687950657932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 717
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694e7db4842e7c610800000000000000
+      internalID: 1641529389337797782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_20
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 717
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb4d2949e625f1a0800000000000000
+      internalID: -6776467280912102475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_21
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 717
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d103c8cf2faf0af20800000000000000
+      internalID: 3432018837582393373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_22
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 717
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9145d6d9379acfe80800000000000000
+      internalID: -8143447712165178343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_23
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 717
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af93ae3e4dcd4b030800000000000000
+      internalID: 3509672816543414778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_24
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 717
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbc331edda8eeab0800000000000000
+      internalID: -4976887852627145805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_25
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 717
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e970e430140c5b650800000000000000
+      internalID: 6248111443507283870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_26
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 717
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db44e51442d83f210800000000000000
+      internalID: 1365590298878428349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_27
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 719
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9248fc9f0f7a80b50800000000000000
+      internalID: 6559677510690243625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_28
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 717
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a068023c6a37ce70800000000000000
+      internalID: 9135334605514629282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 597
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c309b2aec0a48a60800000000000000
+      internalID: 7675436474299909058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 599
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a071ef0b44b4e50800000000000000
+      internalID: 6794599989786380830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 597
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd088740004f7b60800000000000000
+      internalID: 7745980254044818934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 597
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74063b0f18d6aae0800000000000000
+      internalID: -1538304594856770433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 597
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8c765b507c17200800000000000000
+      internalID: 176140687776401611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_34
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 597
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2de050b47a260b0800000000000000
+      internalID: -5736839034667347251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_35
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 597
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2024259e847fcdf80800000000000000
+      internalID: -8080311738885324286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_36
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 597
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4239fe455f66261a0800000000000000
+      internalID: -6817773682007502044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_37
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 597
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ab83dc4d75fb1f0800000000000000
+      internalID: -1027005618529453568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 597
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b4a5da31a5ddc30800000000000000
+      internalID: 4385760652687985415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_39
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 597
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3017871964718060800000000000000
+      internalID: 6953967294351872059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_40
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 597
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d00f2a61fb73ba50800000000000000
+      internalID: 6535703761043521753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_41
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 597
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c3066635d4516e0800000000000000
+      internalID: -1867501449879995265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_42
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 597
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb21ad3391716f80800000000000000
+      internalID: -8115080176336819259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_43
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 597
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6558896551f21d970800000000000000
+      internalID: 8777848917415462230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 597
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cffdafce54f0590800000000000000
+      internalID: -7705863553284047740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_45
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 597
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f06cb0e920f120800000000000000
+      internalID: 2445500642872063786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_46
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 598
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1d670f970bf5980800000000000000
+      internalID: -8547919529954061885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 597
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efad06e274b66a80800000000000000
+      internalID: -8473887243272081439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_48
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 597
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be9b1f6674e72ed0800000000000000
+      internalID: -2438729475876479305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_49
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 597
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7312ff01dac886b60800000000000000
+      internalID: 7739590634578583863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_50
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 593
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e5df06b1afd24a0800000000000000
+      internalID: -6616357282039112141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_51
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 597
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adddd8a7c960103d0800000000000000
+      internalID: -3242302987589263910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_52
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 597
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e787fcd948c5e510800000000000000
+      internalID: 1577887464028604392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_53
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 597
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a662efc17be474190800000000000000
+      internalID: -7978321666491144598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_54
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 597
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc61633e12a9fc2d0800000000000000
+      internalID: -3256214535229008179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 477
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4c0446fe58cc240800000000000000
+      internalID: 4813369364977861840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 477
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f7430a4e2229b0800000000000000
+      internalID: -5106468132067216476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 477
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2447ffc2881375050800000000000000
+      internalID: 5789150306948314178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 477
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35181d09c3893d000800000000000000
+      internalID: 59558605981057363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 477
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513d4f0110c9b1a90800000000000000
+      internalID: -7342103239104081131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 477
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6126d7c6f79dd350800000000000000
+      internalID: 6043153361171521900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_61
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 477
+        width: 113
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727bce9d84ce39200800000000000000
+      internalID: 185751807290292007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_62
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 477
+        width: 104
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e382c46ae38b38a00800000000000000
+      internalID: 757651741545867326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 477
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77163c800876099f0800000000000000
+      internalID: -463756962018664073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_64
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 477
+        width: 117
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c353b0ec0e987e80800000000000000
+      internalID: -8180614944971861052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_65
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 477
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aff33eca0f289b0800000000000000
+      internalID: -5079232804382836090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_66
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 477
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d77a0ceabb039e00800000000000000
+      internalID: 1050196035559389145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_67
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 479
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34fa78b430110f40800000000000000
+      internalID: 5692849222592427066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_68
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 477
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed2053888909cf60800000000000000
+      internalID: 8054979890452114914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 477
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dc004e836c616e0800000000000000
+      internalID: -1867087047852765944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_70
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 477
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74902e4a2e8b9a830800000000000000
+      internalID: 4082997820756461895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_71
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 477
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42485ab464992e700800000000000000
+      internalID: 568185030198002724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_72
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 477
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a718320b3c8cb440800000000000000
+      internalID: 4952987875268892582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_73
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 477
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba518796faed2ee40800000000000000
+      internalID: 5684350524665107883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_74
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 479
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf29ee9768cbe4fd0800000000000000
+      internalID: -2355738269310872837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_75
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 477
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea8ff95ebfe19e50800000000000000
+      internalID: 6814491312021015267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_76
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 479
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabce41a112213a00800000000000000
+      internalID: 734405673354185644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_77
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 477
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f4112ec3d8a340800000000000000
+      internalID: 4875379478900308138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_78
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 477
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb5a779be3d31c50800000000000000
+      internalID: 6634879684859026406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_79
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 477
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8c26d94132a5fe0800000000000000
+      internalID: -1199607779294000971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_80
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 477
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce58a0dd5e66840800000000000000
+      internalID: 5217109955882380296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_81
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 477
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb834f3e4c9b9a110800000000000000
+      internalID: 1272752624998037691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_82
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 477
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcf20d5560339fb0800000000000000
+      internalID: -4642313578978542369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 357
+        width: 104
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7a9def234961950800000000000000
+      internalID: 6419481265608173564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 357
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451d07f51930ff920800000000000000
+      internalID: 3026141397522633044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_85
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 357
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eb9026e8aba7be0800000000000000
+      internalID: -1478664406944858583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_86
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 357
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e90652a7d89d300800000000000000
+      internalID: 277408407812611627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_87
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 357
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebfdbbe7f69b21c0800000000000000
+      internalID: -4527359008834716694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_88
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 357
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f10bfe3ff1e192c0800000000000000
+      internalID: -4426508472338939405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_89
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 357
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41861e3555ac5bba0800000000000000
+      internalID: -6073726054610933740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_90
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 357
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653267222a74f370800000000000000
+      internalID: 8355437495787337063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_91
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 357
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5f44f8751546cc0800000000000000
+      internalID: -3718757955793521217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_92
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 357
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6743e7cfd0e3b3030800000000000000
+      internalID: 3475439767238095990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_93
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 357
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cacb1d15abb5b1f0800000000000000
+      internalID: -1029710621951931706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_94
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 357
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc250c9b5a3be2570800000000000000
+      internalID: 8443883875733623501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_95
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 357
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050b9350ae6e2a070800000000000000
+      internalID: 8116303371259457616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_96
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 357
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e42534e2282f490800000000000000
+      internalID: -7713960076522664405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 357
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b19b6058945a7840800000000000000
+      internalID: 5222579731050500537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_98
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 357
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951f52054ae8c3dc0800000000000000
+      internalID: -3657891960961240743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_99
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 360
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7491754e5de32e0800000000000000
+      internalID: -2144041195891243039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_100
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 357
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f8ac30f43c0240800000000000000
+      internalID: 4759237112638272023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_101
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 357
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b756878bed10989d0800000000000000
+      internalID: -2771682039580564101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_102
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 357
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcde2a994294abec0800000000000000
+      internalID: -3550444934682972725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_103
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 357
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c08495ae31774ce0800000000000000
+      internalID: -1421042643532218172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_104
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 357
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e40d0aedae2d1cf0800000000000000
+      internalID: -280016277336161050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_105
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 357
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b838fce38bf2506a0800000000000000
+      internalID: -6483723620155686005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_106
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 357
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f60681ecf7d5d280800000000000000
+      internalID: -9019065197624162572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_107
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 357
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095600937f7cc5d70800000000000000
+      internalID: 9033314817225549200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_108
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 357
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a400be6ba7c3c70800000000000000
+      internalID: 8952165085351004822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_109
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 357
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5855fabd95aa57f70800000000000000
+      internalID: 9184434318006506885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_110
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 360
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896d7ecc9bbd4720800000000000000
+      internalID: 2832126022839527808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 237
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c07ec4368993eb30800000000000000
+      internalID: 4315461669641679043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_112
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 237
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd4423c712b2f450800000000000000
+      internalID: 6121150658677853650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_113
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 237
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5498c7a5af5c7c40800000000000000
+      internalID: 5511385209083827292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_114
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 237
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15a209488bebc690800000000000000
+      internalID: -7580706577175108326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_115
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 237
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb43caed166fa3dc0800000000000000
+      internalID: -3658340847077018437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_116
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 237
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4ea879d276c03d0800000000000000
+      internalID: -3239100586472577858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_117
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 237
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e7f8d4201710f00800000000000000
+      internalID: 1081269640250752628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_118
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 237
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3f80e1197acec10800000000000000
+      internalID: 2084224969281696765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_119
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 240
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e597bf77c92ab80800000000000000
+      internalID: -8384967517076365812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_120
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 237
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b72825bd0ff5a80800000000000000
+      internalID: -8475791148915197066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_121
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 237
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a11c448df9599990800000000000000
+      internalID: -7378767569088671321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_122
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 237
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebb4d11445bda220800000000000000
+      internalID: 2498852672222051298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_123
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 237
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe34c94032875d10800000000000000
+      internalID: 2114301693981376240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_124
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 238
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c8a80bc927e5430800000000000000
+      internalID: 3773579555085388863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_125
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 240
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4851aca3337ba080800000000000000
+      internalID: -9175113150060472246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_126
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 237
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674b4f9cfc71644f0800000000000000
+      internalID: -844961698871462794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_127
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 237
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b674ec819ddcf80800000000000000
+      internalID: -8084567055496942755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_128
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 237
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8264c0a57be6990800000000000000
+      internalID: -7390768341087541006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_129
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 237
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ebad4833f6df750800000000000000
+      internalID: 6340346117470469746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_130
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 237
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a47342c05c08040800000000000000
+      internalID: 4647931471384234599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_131
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 237
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6576568ffc84e670800000000000000
+      internalID: 8567127420263888238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_132
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 237
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15741c275780167e0800000000000000
+      internalID: -1774127477677799599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_133
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 234
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb12e47c854e9a1a0800000000000000
+      internalID: -6797651092587011649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_134
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 237
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f15e89ee1cf79060800000000000000
+      internalID: 6960308958822027766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_135
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 237
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d53372ddc74ad00800000000000000
+      internalID: 983047907960904975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_136
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 237
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b35f9dadabb2e830800000000000000
+      internalID: 4099044965477209012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_137
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 237
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb06fd7bd1e1fce0800000000000000
+      internalID: -1373068078543926330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_138
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 237
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdc5f7e2aa29f940800000000000000
+      internalID: 5330338513134407163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_139
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 237
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a470410222a0f8ae0800000000000000
+      internalID: -1545005005481441462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7651a3018665bc0800000000000000
+      internalID: -3794731217109817402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_141
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 117
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0755256da03f1b2e0800000000000000
+      internalID: -2111639522389109392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_142
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 117
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8773c6dcbbd5c3390800000000000000
+      internalID: -7837286190344816776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_143
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 117
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0d99258ad7fcce0800000000000000
+      internalID: -1382748398685663008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_144
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 117
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0331793da07be10800000000000000
+      internalID: 2213249645764882617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 117
+        width: 112
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83e660256067da70800000000000000
+      internalID: 8851649580071576459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_146
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 117
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a24cf56bd6f1a990800000000000000
+      internalID: -7376343292486860122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_147
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 117
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f8c41b97bb571c0800000000000000
+      internalID: -4506489720774291614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_148
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 117
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2560b99f4a6bbf60800000000000000
+      internalID: 8051145648968328492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_149
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 117
+        width: 124
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08decd897d7f7550800000000000000
+      internalID: 6160780776289785871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_150
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 117
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb61d994cd05aa900800000000000000
+      internalID: 696457999440221884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_151
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 117
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a4fac8cf4620bf0800000000000000
+      internalID: -359613984381384083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_152
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 120
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6526006292a0060800000000000000
+      internalID: 6920389020600129198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_153
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 120
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e02c441840225fc0800000000000000
+      internalID: -3507705665817927454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_154
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 117
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0715308a4e3dcdf70800000000000000
+      internalID: 9213471916717986160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_155
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 117
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26e8976fee7a25e0800000000000000
+      internalID: -1933593523301849557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_156
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 117
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae8282c6bad93ce0800000000000000
+      internalID: -1424867328603812179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_157
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 117
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e03b99d39a03500800000000000000
+      internalID: 373984851108499053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_158
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 117
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890826700a80286f0800000000000000
+      internalID: -683974709995208552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_159
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 117
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a5a4d19eb8e47d0800000000000000
+      internalID: -2932252474036561283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_160
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 117
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c99cb013865390800000000000000
+      internalID: -7829926794230119360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_161
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 117
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fea042527001be60800000000000000
+      internalID: 7976156906056101622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_162
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 117
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bdf8440811e5a70800000000000000
+      internalID: 8817504363041774366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_163
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 117
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739955ae4a0a54770800000000000000
+      internalID: 8594452094073018679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_164
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4af3a6e704a94e0800000000000000
+      internalID: -1974194574955928368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_165
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e330afdcd87dc4270800000000000000
+      internalID: 8236194822599869246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_166
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 223
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3448bcb03692380800000000000000
+      internalID: -8995549878385622027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: When the player moves up, down, left, and  When sliding to the @2x_167
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9ccaf9a2e475d0800000000000000
+      internalID: -3065576226647401023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      When the player moves up, down, left, and  When sliding to the @2x_0: 4302866447611565087
+      When the player moves up, down, left, and  When sliding to the @2x_1: -751182065868351569
+      When the player moves up, down, left, and  When sliding to the @2x_10: 742135171254245140
+      When the player moves up, down, left, and  When sliding to the @2x_100: 4759237112638272023
+      When the player moves up, down, left, and  When sliding to the @2x_101: -2771682039580564101
+      When the player moves up, down, left, and  When sliding to the @2x_102: -3550444934682972725
+      When the player moves up, down, left, and  When sliding to the @2x_103: -1421042643532218172
+      When the player moves up, down, left, and  When sliding to the @2x_104: -280016277336161050
+      When the player moves up, down, left, and  When sliding to the @2x_105: -6483723620155686005
+      When the player moves up, down, left, and  When sliding to the @2x_106: -9019065197624162572
+      When the player moves up, down, left, and  When sliding to the @2x_107: 9033314817225549200
+      When the player moves up, down, left, and  When sliding to the @2x_108: 8952165085351004822
+      When the player moves up, down, left, and  When sliding to the @2x_109: 9184434318006506885
+      When the player moves up, down, left, and  When sliding to the @2x_11: 2917080726222464069
+      When the player moves up, down, left, and  When sliding to the @2x_110: 2832126022839527808
+      When the player moves up, down, left, and  When sliding to the @2x_111: 4315461669641679043
+      When the player moves up, down, left, and  When sliding to the @2x_112: 6121150658677853650
+      When the player moves up, down, left, and  When sliding to the @2x_113: 5511385209083827292
+      When the player moves up, down, left, and  When sliding to the @2x_114: -7580706577175108326
+      When the player moves up, down, left, and  When sliding to the @2x_115: -3658340847077018437
+      When the player moves up, down, left, and  When sliding to the @2x_116: -3239100586472577858
+      When the player moves up, down, left, and  When sliding to the @2x_117: 1081269640250752628
+      When the player moves up, down, left, and  When sliding to the @2x_118: 2084224969281696765
+      When the player moves up, down, left, and  When sliding to the @2x_119: -8384967517076365812
+      When the player moves up, down, left, and  When sliding to the @2x_12: -8025992211850497048
+      When the player moves up, down, left, and  When sliding to the @2x_120: -8475791148915197066
+      When the player moves up, down, left, and  When sliding to the @2x_121: -7378767569088671321
+      When the player moves up, down, left, and  When sliding to the @2x_122: 2498852672222051298
+      When the player moves up, down, left, and  When sliding to the @2x_123: 2114301693981376240
+      When the player moves up, down, left, and  When sliding to the @2x_124: 3773579555085388863
+      When the player moves up, down, left, and  When sliding to the @2x_125: -9175113150060472246
+      When the player moves up, down, left, and  When sliding to the @2x_126: -844961698871462794
+      When the player moves up, down, left, and  When sliding to the @2x_127: -8084567055496942755
+      When the player moves up, down, left, and  When sliding to the @2x_128: -7390768341087541006
+      When the player moves up, down, left, and  When sliding to the @2x_129: 6340346117470469746
+      When the player moves up, down, left, and  When sliding to the @2x_13: 810121237461938982
+      When the player moves up, down, left, and  When sliding to the @2x_130: 4647931471384234599
+      When the player moves up, down, left, and  When sliding to the @2x_131: 8567127420263888238
+      When the player moves up, down, left, and  When sliding to the @2x_132: -1774127477677799599
+      When the player moves up, down, left, and  When sliding to the @2x_133: -6797651092587011649
+      When the player moves up, down, left, and  When sliding to the @2x_134: 6960308958822027766
+      When the player moves up, down, left, and  When sliding to the @2x_135: 983047907960904975
+      When the player moves up, down, left, and  When sliding to the @2x_136: 4099044965477209012
+      When the player moves up, down, left, and  When sliding to the @2x_137: -1373068078543926330
+      When the player moves up, down, left, and  When sliding to the @2x_138: 5330338513134407163
+      When the player moves up, down, left, and  When sliding to the @2x_139: -1545005005481441462
+      When the player moves up, down, left, and  When sliding to the @2x_14: -3154624399773883369
+      When the player moves up, down, left, and  When sliding to the @2x_140: -3794731217109817402
+      When the player moves up, down, left, and  When sliding to the @2x_141: -2111639522389109392
+      When the player moves up, down, left, and  When sliding to the @2x_142: -7837286190344816776
+      When the player moves up, down, left, and  When sliding to the @2x_143: -1382748398685663008
+      When the player moves up, down, left, and  When sliding to the @2x_144: 2213249645764882617
+      When the player moves up, down, left, and  When sliding to the @2x_145: 8851649580071576459
+      When the player moves up, down, left, and  When sliding to the @2x_146: -7376343292486860122
+      When the player moves up, down, left, and  When sliding to the @2x_147: -4506489720774291614
+      When the player moves up, down, left, and  When sliding to the @2x_148: 8051145648968328492
+      When the player moves up, down, left, and  When sliding to the @2x_149: 6160780776289785871
+      When the player moves up, down, left, and  When sliding to the @2x_15: -5451008786892408494
+      When the player moves up, down, left, and  When sliding to the @2x_150: 696457999440221884
+      When the player moves up, down, left, and  When sliding to the @2x_151: -359613984381384083
+      When the player moves up, down, left, and  When sliding to the @2x_152: 6920389020600129198
+      When the player moves up, down, left, and  When sliding to the @2x_153: -3507705665817927454
+      When the player moves up, down, left, and  When sliding to the @2x_154: 9213471916717986160
+      When the player moves up, down, left, and  When sliding to the @2x_155: -1933593523301849557
+      When the player moves up, down, left, and  When sliding to the @2x_156: -1424867328603812179
+      When the player moves up, down, left, and  When sliding to the @2x_157: 373984851108499053
+      When the player moves up, down, left, and  When sliding to the @2x_158: -683974709995208552
+      When the player moves up, down, left, and  When sliding to the @2x_159: -2932252474036561283
+      When the player moves up, down, left, and  When sliding to the @2x_16: 5375330980556995936
+      When the player moves up, down, left, and  When sliding to the @2x_160: -7829926794230119360
+      When the player moves up, down, left, and  When sliding to the @2x_161: 7976156906056101622
+      When the player moves up, down, left, and  When sliding to the @2x_162: 8817504363041774366
+      When the player moves up, down, left, and  When sliding to the @2x_163: 8594452094073018679
+      When the player moves up, down, left, and  When sliding to the @2x_164: -1974194574955928368
+      When the player moves up, down, left, and  When sliding to the @2x_165: 8236194822599869246
+      When the player moves up, down, left, and  When sliding to the @2x_166: -8995549878385622027
+      When the player moves up, down, left, and  When sliding to the @2x_167: -3065576226647401023
+      When the player moves up, down, left, and  When sliding to the @2x_17: 794318241503075787
+      When the player moves up, down, left, and  When sliding to the @2x_18: -4306755687950657932
+      When the player moves up, down, left, and  When sliding to the @2x_19: 1641529389337797782
+      When the player moves up, down, left, and  When sliding to the @2x_2: 1206748243674166391
+      When the player moves up, down, left, and  When sliding to the @2x_20: -6776467280912102475
+      When the player moves up, down, left, and  When sliding to the @2x_21: 3432018837582393373
+      When the player moves up, down, left, and  When sliding to the @2x_22: -8143447712165178343
+      When the player moves up, down, left, and  When sliding to the @2x_23: 3509672816543414778
+      When the player moves up, down, left, and  When sliding to the @2x_24: -4976887852627145805
+      When the player moves up, down, left, and  When sliding to the @2x_25: 6248111443507283870
+      When the player moves up, down, left, and  When sliding to the @2x_26: 1365590298878428349
+      When the player moves up, down, left, and  When sliding to the @2x_27: 6559677510690243625
+      When the player moves up, down, left, and  When sliding to the @2x_28: 9135334605514629282
+      When the player moves up, down, left, and  When sliding to the @2x_29: 7675436474299909058
+      When the player moves up, down, left, and  When sliding to the @2x_3: -60946622176440378
+      When the player moves up, down, left, and  When sliding to the @2x_30: 6794599989786380830
+      When the player moves up, down, left, and  When sliding to the @2x_31: 7745980254044818934
+      When the player moves up, down, left, and  When sliding to the @2x_32: -1538304594856770433
+      When the player moves up, down, left, and  When sliding to the @2x_33: 176140687776401611
+      When the player moves up, down, left, and  When sliding to the @2x_34: -5736839034667347251
+      When the player moves up, down, left, and  When sliding to the @2x_35: -8080311738885324286
+      When the player moves up, down, left, and  When sliding to the @2x_36: -6817773682007502044
+      When the player moves up, down, left, and  When sliding to the @2x_37: -1027005618529453568
+      When the player moves up, down, left, and  When sliding to the @2x_38: 4385760652687985415
+      When the player moves up, down, left, and  When sliding to the @2x_39: 6953967294351872059
+      When the player moves up, down, left, and  When sliding to the @2x_4: 8316904579850911156
+      When the player moves up, down, left, and  When sliding to the @2x_40: 6535703761043521753
+      When the player moves up, down, left, and  When sliding to the @2x_41: -1867501449879995265
+      When the player moves up, down, left, and  When sliding to the @2x_42: -8115080176336819259
+      When the player moves up, down, left, and  When sliding to the @2x_43: 8777848917415462230
+      When the player moves up, down, left, and  When sliding to the @2x_44: -7705863553284047740
+      When the player moves up, down, left, and  When sliding to the @2x_45: 2445500642872063786
+      When the player moves up, down, left, and  When sliding to the @2x_46: -8547919529954061885
+      When the player moves up, down, left, and  When sliding to the @2x_47: -8473887243272081439
+      When the player moves up, down, left, and  When sliding to the @2x_48: -2438729475876479305
+      When the player moves up, down, left, and  When sliding to the @2x_49: 7739590634578583863
+      When the player moves up, down, left, and  When sliding to the @2x_5: -911342620401627188
+      When the player moves up, down, left, and  When sliding to the @2x_50: -6616357282039112141
+      When the player moves up, down, left, and  When sliding to the @2x_51: -3242302987589263910
+      When the player moves up, down, left, and  When sliding to the @2x_52: 1577887464028604392
+      When the player moves up, down, left, and  When sliding to the @2x_53: -7978321666491144598
+      When the player moves up, down, left, and  When sliding to the @2x_54: -3256214535229008179
+      When the player moves up, down, left, and  When sliding to the @2x_55: 4813369364977861840
+      When the player moves up, down, left, and  When sliding to the @2x_56: -5106468132067216476
+      When the player moves up, down, left, and  When sliding to the @2x_57: 5789150306948314178
+      When the player moves up, down, left, and  When sliding to the @2x_58: 59558605981057363
+      When the player moves up, down, left, and  When sliding to the @2x_59: -7342103239104081131
+      When the player moves up, down, left, and  When sliding to the @2x_6: -294118155210685359
+      When the player moves up, down, left, and  When sliding to the @2x_60: 6043153361171521900
+      When the player moves up, down, left, and  When sliding to the @2x_61: 185751807290292007
+      When the player moves up, down, left, and  When sliding to the @2x_62: 757651741545867326
+      When the player moves up, down, left, and  When sliding to the @2x_63: -463756962018664073
+      When the player moves up, down, left, and  When sliding to the @2x_64: -8180614944971861052
+      When the player moves up, down, left, and  When sliding to the @2x_65: -5079232804382836090
+      When the player moves up, down, left, and  When sliding to the @2x_66: 1050196035559389145
+      When the player moves up, down, left, and  When sliding to the @2x_67: 5692849222592427066
+      When the player moves up, down, left, and  When sliding to the @2x_68: 8054979890452114914
+      When the player moves up, down, left, and  When sliding to the @2x_69: -1867087047852765944
+      When the player moves up, down, left, and  When sliding to the @2x_7: 6726085503424762994
+      When the player moves up, down, left, and  When sliding to the @2x_70: 4082997820756461895
+      When the player moves up, down, left, and  When sliding to the @2x_71: 568185030198002724
+      When the player moves up, down, left, and  When sliding to the @2x_72: 4952987875268892582
+      When the player moves up, down, left, and  When sliding to the @2x_73: 5684350524665107883
+      When the player moves up, down, left, and  When sliding to the @2x_74: -2355738269310872837
+      When the player moves up, down, left, and  When sliding to the @2x_75: 6814491312021015267
+      When the player moves up, down, left, and  When sliding to the @2x_76: 734405673354185644
+      When the player moves up, down, left, and  When sliding to the @2x_77: 4875379478900308138
+      When the player moves up, down, left, and  When sliding to the @2x_78: 6634879684859026406
+      When the player moves up, down, left, and  When sliding to the @2x_79: -1199607779294000971
+      When the player moves up, down, left, and  When sliding to the @2x_8: 6557069463983887146
+      When the player moves up, down, left, and  When sliding to the @2x_80: 5217109955882380296
+      When the player moves up, down, left, and  When sliding to the @2x_81: 1272752624998037691
+      When the player moves up, down, left, and  When sliding to the @2x_82: -4642313578978542369
+      When the player moves up, down, left, and  When sliding to the @2x_83: 6419481265608173564
+      When the player moves up, down, left, and  When sliding to the @2x_84: 3026141397522633044
+      When the player moves up, down, left, and  When sliding to the @2x_85: -1478664406944858583
+      When the player moves up, down, left, and  When sliding to the @2x_86: 277408407812611627
+      When the player moves up, down, left, and  When sliding to the @2x_87: -4527359008834716694
+      When the player moves up, down, left, and  When sliding to the @2x_88: -4426508472338939405
+      When the player moves up, down, left, and  When sliding to the @2x_89: -6073726054610933740
+      When the player moves up, down, left, and  When sliding to the @2x_9: 3497648564981489703
+      When the player moves up, down, left, and  When sliding to the @2x_90: 8355437495787337063
+      When the player moves up, down, left, and  When sliding to the @2x_91: -3718757955793521217
+      When the player moves up, down, left, and  When sliding to the @2x_92: 3475439767238095990
+      When the player moves up, down, left, and  When sliding to the @2x_93: -1029710621951931706
+      When the player moves up, down, left, and  When sliding to the @2x_94: 8443883875733623501
+      When the player moves up, down, left, and  When sliding to the @2x_95: 8116303371259457616
+      When the player moves up, down, left, and  When sliding to the @2x_96: -7713960076522664405
+      When the player moves up, down, left, and  When sliding to the @2x_97: 5222579731050500537
+      When the player moves up, down, left, and  When sliding to the @2x_98: -3657891960961240743
+      When the player moves up, down, left, and  When sliding to the @2x_99: -2144041195891243039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
