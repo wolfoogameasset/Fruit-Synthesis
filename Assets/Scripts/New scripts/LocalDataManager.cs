@@ -64,14 +64,23 @@ namespace SCN.BinaryData
     {
         [SerializeField] int currentCoins;
         [SerializeField] int highScore;
+        [SerializeField] int musicVolume;
+        [SerializeField] int soundVolume;
+        [SerializeField] bool isVibrate;
 
         public int CurrentCoins { get => currentCoins; set => currentCoins = value; }
         public int HighScore { get => highScore; set => highScore = value; }
+        public int MusicVolume { get => musicVolume; set => musicVolume = value; }
+        public int SoundVolume { get => soundVolume; set => soundVolume = value; }
+        public bool IsVibrate { get => isVibrate; set => isVibrate = value; }
 
         public override void SetupDefault()
         {
             CurrentCoins = 0;
             HighScore = 0;
+            MusicVolume = 1;
+            SoundVolume = 1;
+            IsVibrate = true;
         }
     }
 }

@@ -1,3 +1,4 @@
+using DG.Tweening;
 using System;
 using UnityEngine;
 using UnityEngine.UI;
@@ -27,13 +28,28 @@ namespace SCN.FruitSynthesis
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
+            blackImage.SetActive(false);
+            blockImage.SetActive(false);
+            revivePanelTrans.gameObject.SetActive(false);
             reviveButton.onClick.AddListener(Revive);
         }
         void Show_RevivePanel()
         {
+            blackImage.SetActive(true);
+            blockImage.SetActive(true);
+            revivePanelTrans.DOScale(0.8f, 0).OnComplete(() =>
+            {
+                revivePanelTrans.gameObject.SetActive(true);
+                revivePanelTrans.DOScale(1, 0.25f).OnComplete(() =>
+                {
+                    //revivePanelTrans.
+                });
+            });
+        }
+        void Hide_RevivePanel()
+        {
 
         }
-
         void Revive()
         {
             //watch reward ads

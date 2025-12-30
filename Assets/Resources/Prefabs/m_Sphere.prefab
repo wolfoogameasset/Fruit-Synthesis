@@ -4918,7 +4918,7 @@ GameObject:
   - component: {fileID: 2281873887653856808}
   - component: {fileID: 5577893092664091845}
   m_Layer: 5
-  m_Name: Line
+  m_Name: 'Line '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5002,7 +5002,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 51
+  m_SortingOrder: 60
   m_TargetDisplay: 0
 --- !u!1 &1285645195966257012
 GameObject:
@@ -10022,6 +10022,10 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2bc581214ea104841b0b3ab1094adc70, type: 3}
   - {fileID: 21300000, guid: 80acb6bdd64d27548b2a33871c414084, type: 3}
   - {fileID: 21300000, guid: b49128d9d6045324f88a72360169e661, type: 3}
+  sphereButton: {fileID: 4504589032735839343}
+  guideLine: {fileID: 308668276239488948}
+  mergeParticle:
+  - {fileID: 3633207416480990020}
   id: 12
 --- !u!58 &3432966983583205964
 CircleCollider2D:
@@ -15073,7 +15077,7 @@ RectTransform:
   m_GameObject: {fileID: 4825973029542612417}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6277082782959084037}
@@ -25074,7 +25078,7 @@ RectTransform:
   m_GameObject: {fileID: 8424175754251501808}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6277082782959084037}
@@ -30005,7 +30009,7 @@ RectTransform:
   m_GameObject: {fileID: 9171745325223706508}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6277082782959084037}
@@ -34841,7 +34845,6 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 101b9e233e05dc640955b5f7b51523bb, type: 2}
   - {fileID: 2100000, guid: 101b9e233e05dc640955b5f7b51523bb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0

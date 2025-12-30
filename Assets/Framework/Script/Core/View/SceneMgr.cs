@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DG.Tweening;
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -56,20 +57,19 @@ public class SceneMgr
 
     public void SwitchingScene(SceneType sceneType, params object[] sceneArgs)
     {
+        float delayTime = 0;
         if (current != null)
         {
             if (sceneType == current.type)
             {
-                return;
+                //return;
             }
         }
-
-        if (sceneType == mainSceneType) 
+        if (sceneType == mainSceneType)
         {
             switchRecoders.Clear();
         }
-
-        switchRecoders.Add(new SwitchRecorder(sceneType, sceneArgs)); 
+        switchRecoders.Add(new SwitchRecorder(sceneType, sceneArgs));
         HideCurrentScene();
         ShowScene(sceneType, sceneArgs);
         if (OnSwitchingSceneHandler != null)
@@ -86,7 +86,7 @@ public class SceneMgr
         }
 
         SwitchRecorder sr = switchRecoders[switchRecoders.Count - 2];
-        switchRecoders.RemoveRange(switchRecoders.Count - 2, 2); 
+        switchRecoders.RemoveRange(switchRecoders.Count - 2, 2);
         SwitchingScene(sr.sceneType, sr.sceneArgs);
     }
 

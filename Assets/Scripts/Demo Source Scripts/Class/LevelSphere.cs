@@ -9,8 +9,9 @@ public class LevelSphere : MonoBehaviour
 {
     public float sphereNum;
     [SerializeField] Sprite[] SphereSprite;
-
-
+    [SerializeField] Button sphereButton;
+    [SerializeField] GameObject guideLine;
+    [SerializeField] ParticleSystem[] mergeParticle;
     public float SphereNum
     {
         get { return sphereNum; }
@@ -76,10 +77,14 @@ public class LevelSphere : MonoBehaviour
 
     private int Blood = 1;
 
+    private bool _subscribed;
+
     public static Action OnTouchDeathline;
+    public static Action OnSelectedByHammer;
     public static Action<LevelSphere, float, float, LevelSphere> OnMerged;
     public static Action<LevelSphere> OnSphereEnabled;
     public static Action<LevelSphere> OnSphereDisabled;
+    public static Action<float> OnSphereDestroyBySkill;
 
     private void OnEnable()
     {
@@ -89,17 +94,32 @@ public class LevelSphere : MonoBehaviour
         m_Circle = GetComponent<CircleCollider2D>();
         m_Rect.anchoredPosition(new Vector2(0, -100)).localEulerAngles(Vector3.zero);
         m_Circle.enabled = true;
-        transform.GetComponent<Button>().onClick.AddListener(()=>{
-            RemoveObj();
-        });
+
+        sphereButton = GetComponent<Button>();
+        if (!_subscribed)
+        {
+            sphereButton.onClick.AddListener(() =>
+            {
+                //RemoveObj();
+                UseHammer();
+                _subscribed = true;
+            });
+        }
+        sphereButton.interactable = false;
         OnSphereEnabled?.Invoke(this);
-        //MainPanelController.OnClickHammerItemButton += ReadyToChoose;
+        MainPanelController.OnClickHammerItemButton += ReadyToChoose;
+        OnSelectedByHammer += SetBackToNormal;
+        MainPanel.OnDropSphere += SetToDropState;
+
+        guideLine.gameObject.SetActive(true);
     }
 
     private void OnDisable()
     {
         OnSphereDisabled?.Invoke(this);
-        //MainPanelController.OnClickHammerItemButton -= ReadyToChoose;
+        MainPanelController.OnClickHammerItemButton -= ReadyToChoose;
+        OnSelectedByHammer -= SetBackToNormal;
+        MainPanel.OnDropSphere -= SetToDropState;
     }
 
 
@@ -342,10 +362,10 @@ public class LevelSphere : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log("pierced");
         if (collision.CompareTag("Dart"))
         {
-            // refresh sphere?
-            //destroy sphere?
+            DestroyFruitAndCallAddScore();
         }
     }
 
@@ -357,5 +377,35 @@ public class LevelSphere : MonoBehaviour
             Destroy(gameObject);
             MainPanel.isRemoveClassSphere = false;
         }
+    }
+
+    void SetToDropState(Transform droppedSphere)
+    {
+        if (droppedSphere == transform)
+        {
+            guideLine.gameObject.SetActive(false);
+        }
+    }
+    void ReadyToChoose()
+    {
+        if (!m_Circle.enabled) return;
+        sphereButton.interactable = true;
+    }
+    void SetBackToNormal()
+    {
+        sphereButton.interactable = false;
+    }
+    void UseHammer()
+    {
+        DestroyFruitAndCallAddScore();
+        OnSelectedByHammer?.Invoke();
+    }
+    void DestroyFruitAndCallAddScore()
+    {
+        if (MainPanelController.Instance == null) return;
+        sphereButton.interactable = false;
+        Play_MergeParticle((int)sphereNum);
+        OnSphereDestroyBySkill?.Invoke(sphereNum);
+        ObjectPool.Instance.Unspawn(gameObject);
     }
 }

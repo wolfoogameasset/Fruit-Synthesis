@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SCN.FruitSynthesis;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -9,9 +10,6 @@ using UnityEngine.UI;
 
 public class MainPanel : SceneBase, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
-    //[SerializeField] Transform leftTrans;
-    //[SerializeField] Transform rightTrans;
-
     protected override void OnInitSkinFront()
     {
         base.OnInitSkinFront();
@@ -89,6 +87,25 @@ public class MainPanel : SceneBase, IBeginDragHandler, IDragHandler, IEndDragHan
 
     public static bool isXIALUO = true;
 
+    private float leftLimit = 0;
+    private float rightLimit = 0;
+    bool isUsingSkill;
+
+    public static Action<Transform> OnDropSphere;
+
+    private void Awake()
+    {
+        MainPanelController.OnClickHammerItemButton += SetUsingSkillState;
+        MainPanelController.OnClickDartItemButton += SetUsingSkillState;
+        LevelSphere.OnSphereDestroyBySkill += SetNormalState;
+    }
+
+    private void OnDestroy()
+    {
+        MainPanelController.OnClickHammerItemButton -= SetUsingSkillState;
+        MainPanelController.OnClickDartItemButton -= SetUsingSkillState;
+        LevelSphere.OnSphereDestroyBySkill -= SetNormalState;
+    }
 
     private void InitData()
     {
@@ -156,7 +173,6 @@ public class MainPanel : SceneBase, IBeginDragHandler, IDragHandler, IEndDragHan
     {
         bool isShow = (bool)_isShow;
         Finger.gameObject.SetActive(isShow);
-
     }
 
     private void GetSaveValue()
@@ -264,6 +280,7 @@ public class MainPanel : SceneBase, IBeginDragHandler, IDragHandler, IEndDragHan
             tempSphere.SetParent(Config.Instance.SphereParent);
             tempSphere.GetComponent<LevelSphere>().m_Circle.enabled = true;
             StartCoroutine(create());
+            OnDropSphere?.Invoke(tempSphere);
         }
     }
 
@@ -285,17 +302,32 @@ public class MainPanel : SceneBase, IBeginDragHandler, IDragHandler, IEndDragHan
     }
     private float initPosX = 0;
 
+    void SetUsingSkillState()
+    {
+        isUsingSkill = true;
+    }
+
+    void SetNormalState(float point)
+    {
+        isUsingSkill = false;
+    }
+
 
     public void OnBeginDrag(PointerEventData eventData)
     {
-        // Optional: if you want to allow drag only when you start on DragArea
-        // You can check eventData.pointerPressRaycast.gameObject name/tag here
+        if (isUsingSkill) return;
+        if (leftLimit == 0)
+        {
+            leftLimit = MainPanelController.Instance.leftWallPosX;
+            rightLimit = MainPanelController.Instance.rightWallPosX;
+        }
     }
 
     public void OnDrag(PointerEventData eventData)
     {
         if (isNetwork) return;
         if (m_Btn_DragArea.childCount == 0) return;
+        if (isUsingSkill) return;
 
         // Convert pointer position to world position
         Vector3 world;
@@ -304,15 +336,15 @@ public class MainPanel : SceneBase, IBeginDragHandler, IDragHandler, IEndDragHan
 
         var t = m_Btn_DragArea.GetChild(0);
         var old = t.position;
-
-        //float x = Math.Clamp(world.x, leftTrans.position.x + 0.5f, rightTrans.position.x - 0.5f);
-        float x = Math.Clamp(world.x, -5, 5);
+        float x = Math.Clamp(world.x, leftLimit + 1.5f, rightLimit - 1.5f);
+        //float x = Math.Clamp(world.x, -5, 5);
         t.position = new Vector3(x, old.y, old.z);
     }
 
     public void OnEndDrag(PointerEventData eventData)
     {
         if (isNetwork || !isXIALUO) return;
+        if (isUsingSkill) return;
         SetSphere(false);
     }
 

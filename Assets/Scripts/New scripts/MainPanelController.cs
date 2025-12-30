@@ -4,6 +4,7 @@ using SCN.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -27,44 +28,78 @@ namespace SCN.FruitSynthesis
         [SerializeField] Sprite[] itemSprite;
 
         [SerializeField] GameObject dartPrefab;
+        [SerializeField] Transform dartParent;
         [SerializeField] EventTrigger dartSpawnAreaTrigger;
         [SerializeField] Transform dartStartPos;
         [SerializeField] Transform dartEndPos;
+        [SerializeField] Transform dartFieldTrans;
+        [SerializeField] Transform dartTopLimit;
+        [SerializeField] Transform dartBottomLimit;
+
+        [SerializeField] Transform leftWallTrans;
+        [SerializeField] Transform rightWallTrans;
 
         int hammerCost = 100;
         List<LevelSphere> alive = new();
         float currentScore = 0;
+
+        float canvasScale = 1;
+        public float leftWallPosX = 0;
+        public float rightWallPosX = 0;
 
         public static Action OnClickSettingButton;
         public static Action OnClickHammerItemButton;
         public static Action<GameObject[]> OnRevive;
         public static Action OnClickDartItemButton;
 
+        public static MainPanelController Instance;
+
         private void Awake()
         {
+            
+            if (Instance == null)
+            {
+                Instance = this;
+            }
+            else
+            {
+                Destroy(gameObject);
+            }
             Config.OnRandomNextItem += Show_NextItem;
             LevelSphere.OnMerged += HandleMerged;
-            LevelSphere.OnSphereDisabled += HandleDisabled;
-            RevivePanelController.OnChooseRevive += Callback_Revive;
             LevelSphere.OnSphereEnabled += HandleEnabled;
+            LevelSphere.OnSphereDisabled += HandleDisabled;
+            LevelSphere.OnSphereDestroyBySkill += AddScore;
+            RevivePanelController.OnChooseRevive += Callback_Revive;
         }
         private void OnDestroy()
         {
             Config.OnRandomNextItem -= Show_NextItem;
             LevelSphere.OnMerged -= HandleMerged;
-            LevelSphere.OnSphereDisabled -= HandleDisabled;
-            RevivePanelController.OnChooseRevive -= Callback_Revive;
             LevelSphere.OnSphereEnabled -= HandleEnabled;
+            LevelSphere.OnSphereDisabled -= HandleDisabled;
+            LevelSphere.OnSphereDestroyBySkill -= AddScore;
+            RevivePanelController.OnChooseRevive -= Callback_Revive;
         }
         void Start()
         {
+            leftWallPosX = leftWallTrans.position.x;
+            rightWallPosX = rightWallTrans.position.x;
+
             hammerItemButton.onClick.AddListener(Active_HammerItem);
             dartItemButton.onClick.AddListener(Active_DartItem);
+            settingButton.onClick.AddListener(Call_ShowSettingPanel);
+
+            Master.AddEventTriggerListener(dartSpawnAreaTrigger, EventTriggerType.PointerClick, SpawnDart);
+            Master.AddEventTriggerListener(dartSpawnAreaTrigger, EventTriggerType.PointerDown, OnBeginDragLine);
+            Master.AddEventTriggerListener(dartSpawnAreaTrigger, EventTriggerType.Drag, OnDragLine);
+            Master.AddEventTriggerListener(dartSpawnAreaTrigger, EventTriggerType.EndDrag, OnEndDragLine);
+
+            dartSpawnAreaTrigger.gameObject.SetActive(false);
+            dartFieldTrans.gameObject.SetActive(false);
+
             Update_Score();
             Update_Coin();
-            settingButton.onClick.AddListener(Call_ShowSettingPanel);
-            Master.AddEventTriggerListener(dartSpawnAreaTrigger, EventTriggerType.PointerClick, SpawnDart);
-            dartSpawnAreaTrigger.gameObject.SetActive(false);
         }
         void Show_NextItem(int nextFruitValue)
         {
@@ -88,20 +123,42 @@ namespace SCN.FruitSynthesis
             //show reward ads
             OnClickDartItemButton?.Invoke();
             dartSpawnAreaTrigger.gameObject.SetActive(true);
+            dartFieldTrans.transform.position = new Vector3(dartFieldTrans.position.x, 0, transform.position.z);
+            dartFieldTrans.gameObject.SetActive(true);
+        }
+
+        void OnBeginDragLine(BaseEventData data)
+        {
+            var mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            var limitedPosY = Math.Clamp(mousePos.y, dartBottomLimit.position.y, dartTopLimit.position.y);
+            dartFieldTrans.transform.position = new Vector3(dartFieldTrans.position.x, limitedPosY, transform.position.z);
+        }
+        void OnDragLine(BaseEventData data) 
+        {
+            var mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            var limitedPosY = Math.Clamp(mousePos.y, dartBottomLimit.position.y, dartTopLimit.position.y);
+            dartFieldTrans.transform.position = new Vector3(dartFieldTrans.position.x, limitedPosY, transform.position.z);
+        }
+        void OnEndDragLine(BaseEventData data)
+        {
+            var mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         }
         void SpawnDart(BaseEventData data)
         {
-            Debug.Log("SpawnDart");
-            PointerEventData eventData = data as PointerEventData;
-            Vector3 dartSpawnPos = new Vector3(dartStartPos.position.x, eventData.position.y, transform.position.z);
-            GameObject dartGO = Instantiate(dartPrefab, dartSpawnPos, Quaternion.identity, dartSpawnAreaTrigger.transform);
-            dartGO.transform.DOMoveX(dartEndPos.position.x, 0.15f).OnComplete(() =>
+            float dartDuration = 0.15f;
+            float canvasScale = Master.GetTopmostCanvas(this).transform.localScale.x;
+            var mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            var limitedPosY = Math.Clamp(mousePos.y, dartBottomLimit.position.y, dartTopLimit.position.y);
+            Vector3 dartSpawnPos = new Vector3(dartStartPos.position.x, limitedPosY, transform.position.z);
+            GameObject dartGO = Instantiate(dartPrefab, dartSpawnPos, Quaternion.identity, dartParent);
+            dartSpawnAreaTrigger.gameObject.SetActive(false);
+            dartGO.transform.DOMoveX(dartEndPos.position.x, dartDuration).OnComplete(() =>
             {
                 Destroy(dartGO);
-            });
-            DOVirtual.DelayedCall(0.16f, () =>
+            }).SetEase(Ease.Linear);
+            DOVirtual.DelayedCall(dartDuration, () =>
             {
-                dartSpawnAreaTrigger.gameObject.SetActive(false);
+                dartFieldTrans.gameObject.SetActive(false);
             });
         }
         void Call_ShowSettingPanel()
