@@ -1,0 +1,72 @@
+vanila.png
+size:512,512
+filter:Linear,Linear
+pma:true
+1
+bounds:310,44,24,28
+offsets:1,0,25,28
+2
+bounds:2,6,63,17
+3
+bounds:462,378,44,27
+rotate:90
+4
+bounds:310,74,74,34
+rotate:90
+5
+bounds:462,339,37,24
+offsets:0,1,38,25
+rotate:90
+6
+bounds:170,26,32,11
+offsets:0,0,32,13
+7
+bounds:491,390,32,11
+offsets:0,2,32,13
+rotate:90
+Face
+bounds:2,150,356,360
+P_eye_1
+bounds:360,213,86,40
+rotate:90
+P_eye_2
+bounds:95,7,44,16
+P_eye_3
+bounds:360,153,52,58
+P_eye_4
+bounds:232,95,76,53
+T_eye_1
+bounds:462,424,86,40
+rotate:90
+T_eye_2
+bounds:408,300,44,16
+T_eye_3
+bounds:346,90,52,58
+T_eye_4
+bounds:232,40,76,53
+kinh
+bounds:2,39,228,109
+long may
+bounds:2,25,166,12
+mat dung hinh
+bounds:408,318,192,52
+offsets:1,3,194,56
+rotate:90
+mat nham
+bounds:360,301,209,46
+rotate:90
+mo hoi1
+bounds:462,317,20,23
+offsets:1,1,21,25
+rotate:90
+mo hoi2
+bounds:67,2,21,26
+offsets:0,1,22,28
+rotate:90
+mo hoi3
+bounds:487,317,20,23
+offsets:0,0,22,24
+rotate:90
+nuoc dai
+bounds:346,74,14,18
+rotate:90

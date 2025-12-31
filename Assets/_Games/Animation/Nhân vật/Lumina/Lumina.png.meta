@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 9c59e69050954624b97a38f66e0859f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5774501616662186930
+    second: Lumina_0
+  - first:
+      213: -5364510762427976328
+    second: Lumina_1
+  - first:
+      213: 3317157618289449192
+    second: Lumina_2
+  - first:
+      213: -8535354933945096049
+    second: Lumina_3
+  - first:
+      213: -7973947524508170862
+    second: Lumina_4
+  - first:
+      213: -2487111237203362613
+    second: Lumina_5
+  - first:
+      213: -4955349217470095313
+    second: Lumina_6
+  - first:
+      213: 5814940211388707047
+    second: Lumina_7
+  - first:
+      213: 6028203277120934899
+    second: Lumina_8
+  - first:
+      213: -1555007747509912056
+    second: Lumina_9
+  - first:
+      213: 7074075659487549901
+    second: Lumina_10
+  - first:
+      213: -5092048664181509979
+    second: Lumina_11
+  - first:
+      213: -6444858960887977701
+    second: Lumina_12
+  - first:
+      213: -6862051550888754462
+    second: Lumina_13
+  - first:
+      213: -7049353634517811623
+    second: Lumina_14
+  - first:
+      213: -6560131248010197353
+    second: Lumina_15
+  - first:
+      213: -5896129434062081094
+    second: Lumina_16
+  - first:
+      213: 9052936164749299349
+    second: Lumina_17
+  - first:
+      213: -7364912227549898358
+    second: Lumina_18
+  - first:
+      213: -531013783456492462
+    second: Lumina_19
+  - first:
+      213: 8245427581885613820
+    second: Lumina_20
+  - first:
+      213: 8782551777788910002
+    second: Lumina_21
+  - first:
+      213: -6007705329019999432
+    second: Lumina_22
+  - first:
+      213: -7004006654718703370
+    second: Lumina_23
+  - first:
+      213: 8386923480638178929
+    second: Lumina_24
+  - first:
+      213: 2552473769412183010
+    second: Lumina_25
+  - first:
+      213: -1505939689565810674
+    second: Lumina_26
+  - first:
+      213: 3776328532568029976
+    second: Lumina_27
+  - first:
+      213: 5368859512806883145
+    second: Lumina_28
+  - first:
+      213: -2275128375726962944
+    second: Lumina_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lumina_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 493
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e447eefcf59dcdfa0800000000000000
+      internalID: -5774501616662186930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87578bb42ed6d85b0800000000000000
+      internalID: -5364510762427976328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89f1e5749e80e20800000000000000
+      internalID: 3317157618289449192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 459
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88235ae8e35c8980800000000000000
+      internalID: -8535354933945096049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 403
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295c51869f8d65190800000000000000
+      internalID: -7973947524508170862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 403
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc7c9dc1810c7dd0800000000000000
+      internalID: -2487111237203362613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 405
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f206faa24201b3bb0800000000000000
+      internalID: -4955349217470095313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 405
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e075f93051d2b050800000000000000
+      internalID: 5814940211388707047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 418
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f393a611fa78a350800000000000000
+      internalID: 6028203277120934899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 405
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ef0b241b08b6ae0800000000000000
+      internalID: -1555007747509912056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 405
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc91efd055a2c2260800000000000000
+      internalID: 7074075659487549901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0757008b86559b0800000000000000
+      internalID: -5092048664181509979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 350
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1967c0ebe24f86a0800000000000000
+      internalID: -6444858960887977701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 350
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e28bde987815c0a0800000000000000
+      internalID: -6862051550888754462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 350
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ef47ee73aab2e90800000000000000
+      internalID: -7049353634517811623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 381
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7968962136bb5f4a0800000000000000
+      internalID: -6560131248010197353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 350
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3310dc48dbc2ea0800000000000000
+      internalID: -5896129434062081094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 346
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e4b223a7d72ad70800000000000000
+      internalID: 9052936164749299349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_18
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 304
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8915fa99539ac990800000000000000
+      internalID: -7364912227549898358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 256
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2545d3207c571a8f0800000000000000
+      internalID: -531013783456492462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 233
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6008713b4ad6270800000000000000
+      internalID: 8245427581885613820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_21
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 169
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b955985f44e1e970800000000000000
+      internalID: 8782551777788910002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_22
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 233
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83baa8c55d750aca0800000000000000
+      internalID: -6007705329019999432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 157
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8050d6e05ccce90800000000000000
+      internalID: -7004006654718703370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 169
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17642d54876546470800000000000000
+      internalID: 8386923480638178929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 113
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c054ae553c6320800000000000000
+      internalID: 2552473769412183010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 57
+        width: 101
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009446c4d3d91be0800000000000000
+      internalID: -1505939689565810674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 79
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bb3e2eac6386430800000000000000
+      internalID: 3776328532568029976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fb4dd0845028a40800000000000000
+      internalID: 5368859512806883145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumina_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1
+        width: 101
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0070262ebce1d60e0800000000000000
+      internalID: -2275128375726962944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lumina_0: -5774501616662186930
+      Lumina_1: -5364510762427976328
+      Lumina_10: 7074075659487549901
+      Lumina_11: -5092048664181509979
+      Lumina_12: -6444858960887977701
+      Lumina_13: -6862051550888754462
+      Lumina_14: -7049353634517811623
+      Lumina_15: -6560131248010197353
+      Lumina_16: -5896129434062081094
+      Lumina_17: 9052936164749299349
+      Lumina_18: -7364912227549898358
+      Lumina_19: -531013783456492462
+      Lumina_2: 3317157618289449192
+      Lumina_20: 8245427581885613820
+      Lumina_21: 8782551777788910002
+      Lumina_22: -6007705329019999432
+      Lumina_23: -7004006654718703370
+      Lumina_24: 8386923480638178929
+      Lumina_25: 2552473769412183010
+      Lumina_26: -1505939689565810674
+      Lumina_27: 3776328532568029976
+      Lumina_28: 5368859512806883145
+      Lumina_29: -2275128375726962944
+      Lumina_3: -8535354933945096049
+      Lumina_4: -7973947524508170862
+      Lumina_5: -2487111237203362613
+      Lumina_6: -4955349217470095313
+      Lumina_7: 5814940211388707047
+      Lumina_8: 6028203277120934899
+      Lumina_9: -1555007747509912056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

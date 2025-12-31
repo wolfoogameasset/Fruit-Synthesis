@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e03dc9e26edbd4d4ea4bd1c42aa61afb, type: 3}
+  m_Name: Admob config android
+  m_EditorClassIdentifier: 
+  enableLog: 0
+  useTestID: 1
+  isBlockAds: 0
+  requestOnLoadFailed: 1
+  appID: 
+  useBannerAd: 1
+  bannerID: 
+  bannerSize: 0
+  autoShowBanner: 0
+  showBannerOnBottom: 0
+  useInterstitialAd: 1
+  interID: 
+  inter_interval: 0
+  useRewardVideoAd: 1
+  rewardVideoID: 
+  rv_interval: 0
+  useAOA: 0
+  aoaID: 
+  useNative: 0
+  nativeID: 

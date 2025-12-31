@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 587249f89698bab4795dd4dab6f0345c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3808721226637639282
+    second: vanila_0
+  - first:
+      213: -4238950692714555846
+    second: vanila_1
+  - first:
+      213: -5317839975967811539
+    second: vanila_2
+  - first:
+      213: -2876046561164486071
+    second: vanila_3
+  - first:
+      213: 1164702239300707502
+    second: vanila_4
+  - first:
+      213: -1649520523434583130
+    second: vanila_5
+  - first:
+      213: -8921967528313568628
+    second: vanila_6
+  - first:
+      213: -7685352679798785020
+    second: vanila_7
+  - first:
+      213: -6887513803214874150
+    second: vanila_8
+  - first:
+      213: 8745377537865384013
+    second: vanila_9
+  - first:
+      213: -3423666563232810922
+    second: vanila_10
+  - first:
+      213: -3851623893469644629
+    second: vanila_11
+  - first:
+      213: -990088512149630374
+    second: vanila_12
+  - first:
+      213: -5955385404588501448
+    second: vanila_13
+  - first:
+      213: 225876624243734237
+    second: vanila_14
+  - first:
+      213: 4069199473720994255
+    second: vanila_15
+  - first:
+      213: -3689026265584856450
+    second: vanila_16
+  - first:
+      213: 3443650424099344762
+    second: vanila_17
+  - first:
+      213: 4593929271055398572
+    second: vanila_18
+  - first:
+      213: 8554245490354900056
+    second: vanila_19
+  - first:
+      213: -3236863342546667405
+    second: vanila_20
+  - first:
+      213: -6892638042789330277
+    second: vanila_21
+  - first:
+      213: -8040228881975553774
+    second: vanila_22
+  - first:
+      213: 2623116487908790973
+    second: vanila_23
+  - first:
+      213: 5983548977934985857
+    second: vanila_24
+  - first:
+      213: 6510087304309802752
+    second: vanila_25
+  - first:
+      213: -7046094651456330597
+    second: vanila_26
+  - first:
+      213: -4611426140976715312
+    second: vanila_27
+  - first:
+      213: -3836428176182214006
+    second: vanila_28
+  - first:
+      213: -2747882932885144581
+    second: vanila_29
+  - first:
+      213: -5346506665898251763
+    second: vanila_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vanila_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8106cd4934b42bc0800000000000000
+      internalID: -3808721226637639282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 474
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a365a5ccdc83c25c0800000000000000
+      internalID: -4238950692714555846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 488
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28111c87bc3336b0800000000000000
+      internalID: -5317839975967811539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 488
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a9e4cf3ea3618d0800000000000000
+      internalID: -2876046561164486071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 474
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ee9a048ad92010800000000000000
+      internalID: 1164702239300707502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 363
+        width: 230
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab17fec2d9bb19e0800000000000000
+      internalID: -1649520523434583130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 474
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82cc49bdcdce2480800000000000000
+      internalID: -8921967528313568628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 418
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c3ffad474285590800000000000000
+      internalID: -7685352679798785020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 439
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad917c500b2aa60a0800000000000000
+      internalID: -6887513803214874150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 363
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4085232982dd5970800000000000000
+      internalID: 8745377537865384013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 423
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658302d6661bc70d0800000000000000
+      internalID: -3423666563232810922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 358
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8b555c9784c8ac0800000000000000
+      internalID: -3851623893469644629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 363
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5250217ebf7242f0800000000000000
+      internalID: -990088512149630374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 363
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836d4fa07883a5da0800000000000000
+      internalID: -5955385404588501448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 300
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6bc1fc799722300800000000000000
+      internalID: 225876624243734237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 212
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9a85f9c53b87830800000000000000
+      internalID: 4069199473720994255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 119
+        width: 20
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e729ab02822fdccc0800000000000000
+      internalID: -3689026265584856450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a719013c0dd4acf20800000000000000
+      internalID: 3443650424099344762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 195
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6b684155ae0cf30800000000000000
+      internalID: 4593929271055398572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 110
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c471e73f8c6b670800000000000000
+      internalID: 8554245490354900056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_20
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 174
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378b50980f95413d0800000000000000
+      internalID: -3236863342546667405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 174
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c236083e6850a0800000000000000
+      internalID: -6892638042789330277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 132
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d2094e6e5b6090800000000000000
+      internalID: -8040228881975553774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 135
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db216424c8e276420800000000000000
+      internalID: 2623116487908790973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 89
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a67fdd716d90350800000000000000
+      internalID: 5983548977934985857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1
+        width: 20
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0078a2e49e9785a50800000000000000
+      internalID: 6510087304309802752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_26
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b946a2e0f3e373e90800000000000000
+      internalID: -7046094651456330597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 89
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e12f6b5ce000c0800000000000000
+      internalID: -4611426140976715312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 50
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a820c5866e442cac0800000000000000
+      internalID: -3836428176182214006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb50d080f8dd9d0800000000000000
+      internalID: -2747882932885144581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanila_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a60eda3846dc5b0800000000000000
+      internalID: -5346506665898251763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vanila_0: -3808721226637639282
+      vanila_1: -4238950692714555846
+      vanila_10: -3423666563232810922
+      vanila_11: -3851623893469644629
+      vanila_12: -990088512149630374
+      vanila_13: -5955385404588501448
+      vanila_14: 225876624243734237
+      vanila_15: 4069199473720994255
+      vanila_16: -3689026265584856450
+      vanila_17: 3443650424099344762
+      vanila_18: 4593929271055398572
+      vanila_19: 8554245490354900056
+      vanila_2: -5317839975967811539
+      vanila_20: -3236863342546667405
+      vanila_21: -6892638042789330277
+      vanila_22: -8040228881975553774
+      vanila_23: 2623116487908790973
+      vanila_24: 5983548977934985857
+      vanila_25: 6510087304309802752
+      vanila_26: -7046094651456330597
+      vanila_27: -4611426140976715312
+      vanila_28: -3836428176182214006
+      vanila_29: -2747882932885144581
+      vanila_3: -2876046561164486071
+      vanila_30: -5346506665898251763
+      vanila_4: 1164702239300707502
+      vanila_5: -1649520523434583130
+      vanila_6: -8921967528313568628
+      vanila_7: -7685352679798785020
+      vanila_8: -6887513803214874150
+      vanila_9: 8745377537865384013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,71 @@
+Ray.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+1
+bounds:467,699,60,21
+offsets:0,1,60,22
+2
+bounds:748,795,73,26
+3
+bounds:296,394,143,54
+offsets:0,0,147,54
+rotate:90
+4
+bounds:2,114,94,39
+5
+bounds:128,184,53,19
+offsets:1,0,54,20
+6
+bounds:559,728,60,21
+rotate:90
+7
+bounds:98,125,25,28
+8
+bounds:329,360,32,13
+rotate:90
+Face
+bounds:2,265,292,272
+P_eye_1
+bounds:183,232,107,31
+P_eye_2
+bounds:352,487,50,12
+rotate:90
+P_eye_3
+bounds:370,558,61,67
+P_eye_4
+bounds:370,627,90,66
+offsets:1,0,91,66
+T_eye_1
+bounds:296,285,107,31
+rotate:90
+T_eye_2
+bounds:183,218,50,12
+T_eye_3
+bounds:2,45,61,67
+T_eye_4
+bounds:467,722,90,66
+offsets:0,0,91,66
+Toc
+bounds:2,539,366,282
+offsets:0,1,367,283
+do mat
+bounds:2,205,179,58
+offsets:7,6,193,70
+long may
+bounds:607,794,139,27
+mat nham
+bounds:370,790,235,31
+mo hoi1
+bounds:296,268,15,20
+offsets:0,0,16,21
+rotate:90
+mo hoi2
+bounds:433,598,22,27
+offsets:0,1,22,29
+ngoi sao
+bounds:2,155,124,48
+offsets:10,0,135,49
+xam mat
+bounds:370,695,95,93
+offsets:7,5,107,105

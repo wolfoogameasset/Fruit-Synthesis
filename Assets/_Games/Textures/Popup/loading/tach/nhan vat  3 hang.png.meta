@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: b135eb0c7a57c254198ba8826b018e39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4596147663379563968
+    second: nhan vat  3 hang_0
+  - first:
+      213: 5848794803177680784
+    second: nhan vat  3 hang_1
+  - first:
+      213: -4348900625169037213
+    second: nhan vat  3 hang_2
+  - first:
+      213: -8556184627969106432
+    second: nhan vat  3 hang_3
+  - first:
+      213: -3851950711439366221
+    second: nhan vat  3 hang_4
+  - first:
+      213: 5183570404751927692
+    second: nhan vat  3 hang_5
+  - first:
+      213: 6913118628430372148
+    second: nhan vat  3 hang_6
+  - first:
+      213: -2042075135706244271
+    second: nhan vat  3 hang_7
+  - first:
+      213: -1014745012683859609
+    second: nhan vat  3 hang_8
+  - first:
+      213: -6362417239593134272
+    second: nhan vat  3 hang_9
+  - first:
+      213: 5879945295358144815
+    second: nhan vat  3 hang_10
+  - first:
+      213: 3116603936652538535
+    second: nhan vat  3 hang_11
+  - first:
+      213: 1865978275893815197
+    second: nhan vat  3 hang_12
+  - first:
+      213: 7469109963645878241
+    second: nhan vat  3 hang_13
+  - first:
+      213: 7088730730354344979
+    second: nhan vat  3 hang_14
+  - first:
+      213: 7445286779126039969
+    second: nhan vat  3 hang_15
+  - first:
+      213: 8096669651158316665
+    second: nhan vat  3 hang_16
+  - first:
+      213: 4104309511654803605
+    second: nhan vat  3 hang_17
+  - first:
+      213: -7322961180550697335
+    second: nhan vat  3 hang_18
+  - first:
+      213: -2438482706097305824
+    second: nhan vat  3 hang_19
+  - first:
+      213: 3134285243112111689
+    second: nhan vat  3 hang_20
+  - first:
+      213: -1437861791063111181
+    second: nhan vat  3 hang_21
+  - first:
+      213: 6754118261431077875
+    second: nhan vat  3 hang_22
+  - first:
+      213: -7218671777239359975
+    second: nhan vat  3 hang_23
+  - first:
+      213: 7745722838437728406
+    second: nhan vat  3 hang_24
+  - first:
+      213: 6446275099274189585
+    second: nhan vat  3 hang_25
+  - first:
+      213: -2731051468017509257
+    second: nhan vat  3 hang_26
+  - first:
+      213: 6351058770530549045
+    second: nhan vat  3 hang_27
+  - first:
+      213: 7937543930862293979
+    second: nhan vat  3 hang_28
+  - first:
+      213: -6913150565616970581
+    second: nhan vat  3 hang_29
+  - first:
+      213: -7450177178315412771
+    second: nhan vat  3 hang_30
+  - first:
+      213: -8951815894756390107
+    second: nhan vat  3 hang_31
+  - first:
+      213: -8922851668708497380
+    second: nhan vat  3 hang_32
+  - first:
+      213: -2173917072152126006
+    second: nhan vat  3 hang_33
+  - first:
+      213: 1035363079108844989
+    second: nhan vat  3 hang_34
+  - first:
+      213: 2577091133908521522
+    second: nhan vat  3 hang_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nhan vat  3 hang_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2601
+        width: 330
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c50bfac2fbc8cf30800000000000000
+      internalID: 4596147663379563968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2867
+        width: 331
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f6e8f92e71b2150800000000000000
+      internalID: 5848794803177680784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_2
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2601
+        width: 331
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36843514ce995a3c0800000000000000
+      internalID: -4348900625169037213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_3
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2867
+        width: 331
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e5e39d963524980800000000000000
+      internalID: -8556184627969106432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_4
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2601
+        width: 331
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e7588c3f1b8ac0800000000000000
+      internalID: -3851950711439366221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_5
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 2867
+        width: 332
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c896773c1ddbfe740800000000000000
+      internalID: 5183570404751927692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2094
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d5ab9e3c450ff50800000000000000
+      internalID: 6913118628430372148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2360
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b5293cb7719a3e0800000000000000
+      internalID: -2042075135706244271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2094
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769116d89c6eae1f0800000000000000
+      internalID: -1014745012683859609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_9
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 2360
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047da39ea3724b7a0800000000000000
+      internalID: -6362417239593134272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_10
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 2094
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f213d84c713c99150800000000000000
+      internalID: 5879945295358144815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_11
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 2360
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a232c594c6604b20800000000000000
+      internalID: 3116603936652538535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1589
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d972f350b5945e910800000000000000
+      internalID: 1865978275893815197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1855
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef717b50fb97a760800000000000000
+      internalID: 7469109963645878241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1589
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3148a23aa0b306260800000000000000
+      internalID: 7088730730354344979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_15
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1855
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a548b8f0e8f25760800000000000000
+      internalID: 7445286779126039969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_16
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1589
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9763af456262d5070800000000000000
+      internalID: 8096669651158316665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_17
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1855
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598017a51cf65f830800000000000000
+      internalID: 4104309511654803605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1075
+        width: 330
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eec41ea9d9f5a90800000000000000
+      internalID: -7322961180550697335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1341
+        width: 331
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027032006e4c82ed0800000000000000
+      internalID: -2438482706097305824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_20
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1075
+        width: 331
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e327c82d73f7b20800000000000000
+      internalID: 3134285243112111689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_21
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1341
+        width: 331
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f98393b150bb0ce0800000000000000
+      internalID: -1437861791063111181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_22
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1075
+        width: 331
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb049f16c27bbd50800000000000000
+      internalID: 6754118261431077875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_23
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1341
+        width: 332
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e9287c34022db90800000000000000
+      internalID: -7218671777239359975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 568
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69016b902e55e7b60800000000000000
+      internalID: 7745722838437728406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_25
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 834
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b1fa88c05c57950800000000000000
+      internalID: 6446275099274189585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_26
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 568
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd189d82b591ad0800000000000000
+      internalID: -2731051468017509257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_27
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 834
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d3a1d6d4e732850800000000000000
+      internalID: 6351058770530549045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_28
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 568
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3da147622d72e60800000000000000
+      internalID: 7937543930862293979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_29
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 834
+        width: 310
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba41c91203e8f00a0800000000000000
+      internalID: -6913150565616970581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_30
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 62
+        width: 310
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaa9cc3457ab9890800000000000000
+      internalID: -7450177178315412771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 329
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b895a5fd2c4c380800000000000000
+      internalID: -8951815894756390107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_32
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 62
+        width: 310
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18e02fbea9ab2480800000000000000
+      internalID: -8922851668708497380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_33
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 329
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd1737d0f1b4d1e0800000000000000
+      internalID: -2173917072152126006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_34
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 62
+        width: 310
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd56df1c395e5e00800000000000000
+      internalID: 1035363079108844989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhan vat  3 hang_35
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 329
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2321d667bbaa3c320800000000000000
+      internalID: 2577091133908521522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nhan vat  3 hang_0: 4596147663379563968
+      nhan vat  3 hang_1: 5848794803177680784
+      nhan vat  3 hang_10: 5879945295358144815
+      nhan vat  3 hang_11: 3116603936652538535
+      nhan vat  3 hang_12: 1865978275893815197
+      nhan vat  3 hang_13: 7469109963645878241
+      nhan vat  3 hang_14: 7088730730354344979
+      nhan vat  3 hang_15: 7445286779126039969
+      nhan vat  3 hang_16: 8096669651158316665
+      nhan vat  3 hang_17: 4104309511654803605
+      nhan vat  3 hang_18: -7322961180550697335
+      nhan vat  3 hang_19: -2438482706097305824
+      nhan vat  3 hang_2: -4348900625169037213
+      nhan vat  3 hang_20: 3134285243112111689
+      nhan vat  3 hang_21: -1437861791063111181
+      nhan vat  3 hang_22: 6754118261431077875
+      nhan vat  3 hang_23: -7218671777239359975
+      nhan vat  3 hang_24: 7745722838437728406
+      nhan vat  3 hang_25: 6446275099274189585
+      nhan vat  3 hang_26: -2731051468017509257
+      nhan vat  3 hang_27: 6351058770530549045
+      nhan vat  3 hang_28: 7937543930862293979
+      nhan vat  3 hang_29: -6913150565616970581
+      nhan vat  3 hang_3: -8556184627969106432
+      nhan vat  3 hang_30: -7450177178315412771
+      nhan vat  3 hang_31: -8951815894756390107
+      nhan vat  3 hang_32: -8922851668708497380
+      nhan vat  3 hang_33: -2173917072152126006
+      nhan vat  3 hang_34: 1035363079108844989
+      nhan vat  3 hang_35: 2577091133908521522
+      nhan vat  3 hang_4: -3851950711439366221
+      nhan vat  3 hang_5: 5183570404751927692
+      nhan vat  3 hang_6: 6913118628430372148
+      nhan vat  3 hang_7: -2042075135706244271
+      nhan vat  3 hang_8: -1014745012683859609
+      nhan vat  3 hang_9: -6362417239593134272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

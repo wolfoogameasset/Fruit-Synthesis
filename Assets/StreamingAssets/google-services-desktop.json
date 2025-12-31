@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "203381572912",
+    "project_id": "gacha-merge",
+    "storage_bucket": "gacha-merge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203381572912:ios:12d0491970ad84cfe7b4f5",
+        "android_client_info": {
+          "package_name": "gachamerge.puzzle.characters.matchgame"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfvjVRDaNtxpAL4IwXdWMv9NzzzCTYeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

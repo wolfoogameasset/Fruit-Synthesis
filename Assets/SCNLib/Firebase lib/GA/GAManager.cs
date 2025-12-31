@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Firebase.Analytics;
-//using SCN.Ads;
+using SCN.Ads;
 using SCN.Common;
 using UnityEngine;
 
