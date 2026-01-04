@@ -1,4 +1,5 @@
 using DG.Tweening;
+using SCN.Ads;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -40,10 +41,14 @@ namespace SCN.FruitSynthesis
                     blockImage.SetActive(false);
                 });
             });
+
+            AudioManager.Instance.Play(AudioName.SFX_GameOver, false);
+            Vibration.Vibrate();
         }
         void RestartGame()
         {
             SceneMgr.GetInstance.SwitchingScene(SceneType.SplashPanel);
+            AdsManager.Instance.ShowInterstitial();
             //SceneMgr.GetInstance.SwitchingScene(SceneType.MainPanel);
         }
     }

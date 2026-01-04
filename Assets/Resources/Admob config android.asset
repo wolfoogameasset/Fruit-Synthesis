@@ -20,8 +20,8 @@ MonoBehaviour:
   useBannerAd: 1
   bannerID: 
   bannerSize: 0
-  autoShowBanner: 0
-  showBannerOnBottom: 0
+  autoShowBanner: 1
+  showBannerOnBottom: 1
   useInterstitialAd: 1
   interID: 
   inter_interval: 0

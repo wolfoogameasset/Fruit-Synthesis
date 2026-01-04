@@ -2,6 +2,7 @@
 using SCN.Ads;
 using SCN.BinaryData;
 using SCN.Common;
+using SCN.IAP;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,7 @@ namespace SCN.FruitSynthesis
     public class MainPanelController : MonoBehaviour
     {
         [SerializeField] Button settingButton;
+        [SerializeField] Button removeAdsButton;
         [SerializeField] Button hammerItemButton;
         [SerializeField] Button dartItemButton;
 
@@ -39,6 +41,12 @@ namespace SCN.FruitSynthesis
 
         [SerializeField] Transform leftWallTrans;
         [SerializeField] Transform rightWallTrans;
+        [SerializeField] Image[] _lightOnImage;
+        [SerializeField] int _loopCount = 5;
+        int currentLightMoveId = 0;
+
+        int maxLightMove = 2;
+        Sequence[] lightFadeSequence = new Sequence[16];
 
         bool isUsingSkill;
         int hammerCost = 100;
@@ -94,6 +102,15 @@ namespace SCN.FruitSynthesis
             hammerItemButton.onClick.AddListener(Active_HammerItem);
             dartItemButton.onClick.AddListener(Active_DartItem);
             settingButton.onClick.AddListener(Call_ShowSettingPanel);
+            if (AdsManager.Instance.IsRemovedAds)
+            {
+                removeAdsButton.gameObject.SetActive(false);
+            }
+            else
+            {
+                removeAdsButton.gameObject.SetActive(true);
+                removeAdsButton.onClick.AddListener(Call_RemoveAds);
+            }
 
             Master.AddEventTriggerListener(dartSpawnAreaTrigger, EventTriggerType.PointerClick, SpawnDart);
             Master.AddEventTriggerListener(dartSpawnAreaTrigger, EventTriggerType.PointerDown, OnBeginDragLine);
@@ -106,6 +123,8 @@ namespace SCN.FruitSynthesis
             hammerCostText.text = hammerCost.ToString();
             Update_Score();
             Update_Coin();
+            Play_LightShowEffect();
+            AudioManager.Instance.Play(AudioName.BGM_Gameplay, true);
         }
         void Show_NextItem(int nextFruitValue)
         {
@@ -296,6 +315,114 @@ namespace SCN.FruitSynthesis
             {
                 usingSkillText.text = "Select An Area To Remove";
             }
+        }
+        void Play_LightShowEffect()
+        {
+            for (int i = 0; i < _lightOnImage.Length; i++)
+            {
+                _lightOnImage[i].DOFade(0, 0);
+            }
+            switch (currentLightMoveId)
+            {
+                case 0:
+                    {
+                        for (int i = 0; i < _lightOnImage.Length; i++)
+                        {
+                            int j = i;
+                            lightFadeSequence[j] = DOTween.Sequence()
+                                .AppendInterval(j * 0.2f)
+                                .Append(_lightOnImage[j].DOFade(1, 0.2f))
+                                .AppendInterval(0.35f)
+                                .Append(_lightOnImage[j].DOFade(0, 0f))
+                                .AppendInterval((_lightOnImage.Length - j) * 0.2f)
+                                .SetLoops(_loopCount, LoopType.Restart)
+                                ;
+                            if (j == _lightOnImage.Length - 1)
+                            {
+                                lightFadeSequence[j].OnComplete(() =>
+                                {
+                                    Stop_LightShowEffect(true);
+                                });
+                            }
+                        }
+                    }
+                    break;
+                case 1:
+                    {
+                        for (int i = 0; i < _lightOnImage.Length; i++)
+                        {
+                            int j = i;
+                            if (j % 2 == 0)
+                            {
+                                lightFadeSequence[j] = DOTween.Sequence()
+                                    .AppendInterval(0.5f)
+                                    .Append(_lightOnImage[j].DOFade(1, 0.1f))
+                                    .AppendInterval(0.5f)
+                                    .Append(_lightOnImage[j].DOFade(0, 0f))
+                                    .SetLoops(_loopCount * 2, LoopType.Restart)
+                                    ;
+                            }
+                            else
+                            {
+                                lightFadeSequence[j] = DOTween.Sequence()
+                                    .Append(_lightOnImage[j].DOFade(1, 0.1f))
+                                    .AppendInterval(0.5f)
+                                    .Append(_lightOnImage[j].DOFade(0, 0f))
+                                    .AppendInterval(0.5f)
+                                    .SetLoops(_loopCount * 2, LoopType.Restart)
+                                    ;
+                            }
+
+                            if (j == _lightOnImage.Length - 1)
+                            {
+                                lightFadeSequence[j].OnComplete(() =>
+                                {
+                                    Stop_LightShowEffect(true);
+                                });
+                            }
+                        }
+                    }
+                    break;
+
+            }
+        }
+        void Stop_LightShowEffect(bool isContinue)
+        {
+            for (int i = 0; i < lightFadeSequence.Length; i++)
+            {
+                int j = i;
+                lightFadeSequence[j].Kill();
+                lightFadeSequence[j] = DOTween.Sequence()
+                    .Append(_lightOnImage[j].DOFade(1, 0.1f))
+                    .AppendInterval(0.15f)
+                    .Append(_lightOnImage[j].DOFade(0, 0f))
+                    .SetLoops(3, LoopType.Restart)
+                    ;
+                if (j == lightFadeSequence.Length - 1)
+                {
+                    lightFadeSequence[j]
+                        .OnComplete(() =>
+                        {
+                            if (currentLightMoveId + 1 == maxLightMove)
+                            {
+                                currentLightMoveId = 0;
+                            }
+                            else
+                            {
+                                currentLightMoveId++;
+                            }
+                            if (isContinue)
+                            {
+                                Play_LightShowEffect();
+                            }
+                        })
+                        ;
+                }
+            }
+        }
+        void Call_RemoveAds()
+        {
+            IAPManager.Instance.OpenRemoveAdsPanel();
         }
     }
 

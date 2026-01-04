@@ -63,6 +63,8 @@ namespace SCN.FruitSynthesis
                     blockImage.SetActive(false);
                 });
             });
+            AudioManager.Instance.Play(AudioName.SFX_Lose, false);
+            Vibration.Vibrate();
         }
         void Hide_RevivePanel()
         {
@@ -73,6 +75,7 @@ namespace SCN.FruitSynthesis
                 revivePanelTrans.gameObject.SetActive(false);
                 blackImage.SetActive(false);
                 blockImage.SetActive(false);
+                ReviewInGameManager.Ins.AddCount();
             });
         }
         void Revive()
@@ -95,7 +98,7 @@ namespace SCN.FruitSynthesis
         }
         void SetupReviveStatus()
         {
-            reviveCountText.text = $"{(maxRevive - reviveCount)}/{maxRevive}";
+            reviveCountText.text = $"Revive\n{(maxRevive - reviveCount)}/{maxRevive}";
             if (reviveCount == maxRevive)
             {
                 reviveButton.interactable = false;

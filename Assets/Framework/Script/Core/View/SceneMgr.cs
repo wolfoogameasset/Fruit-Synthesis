@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class SceneMgr
 {
@@ -117,6 +118,15 @@ public class SceneMgr
             LayerMgr.GetInstance.SetLayer(current.gameObject, LayerType.Scene);
             go.transform.localPosition(Vector3.zero).localRotation(Quaternion.identity).localScale(1);
             current.OnShowed();
+            go.AddComponent<RectTransform>();
+            RectTransform rectTransform = go.GetComponent<RectTransform>();
+            rectTransform.anchorMin = new Vector2(0f, 0f);
+            rectTransform.anchorMax = new Vector2(1f, 1f);
+
+            rectTransform.offsetMin = new Vector2(0f, 0f);
+            rectTransform.offsetMax = new Vector2(0f, 0f);
+
+            rectTransform.pivot = new Vector2(0.5f, 0.5f);
         }
     }
 
@@ -124,6 +134,7 @@ public class SceneMgr
     {
         if (current != null)
         {
+            DOTween.KillAll();
             current.OnHiding();
             current.OnHided();
             if (!current.cache)

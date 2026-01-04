@@ -253,6 +253,7 @@ public class LevelSphere : MonoBehaviour
 
         Play_MergeParticle((int)SphereNum);
         charAnim[spriteID].AnimationState.SetAnimation(0, happy, false);
+        AudioManager.Instance.Play(AudioName.SFX_Merge, false);
 
         if (gameObject != null && gameObject.activeSelf)
             StartCoroutine(Merge((int)SphereNum));
@@ -430,6 +431,7 @@ public class LevelSphere : MonoBehaviour
         {
             guideLine.gameObject.SetActive(false);
             charAnim[spriteID].AnimationState.SetAnimation(0, shock, false);
+            AudioManager.Instance.Play(AudioName.SFX_Drop, false);
         }
     }
     void ReadyToChoose()
@@ -453,6 +455,7 @@ public class LevelSphere : MonoBehaviour
         Play_MergeParticle(spriteID);
         OnSphereDestroyBySkill?.Invoke(sphereNum, isUsingHammer);
         ObjectPool.Instance.Unspawn(gameObject);
+        Vibration.Vibrate();
     }
     void OnCompleteAnim(TrackEntry trackEntry)
     {

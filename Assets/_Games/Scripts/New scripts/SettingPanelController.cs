@@ -1,4 +1,5 @@
 using DG.Tweening;
+using SCN.Ads;
 using SCN.BinaryData;
 using SCN.Common;
 using UnityEngine;
@@ -75,11 +76,13 @@ namespace SCN.FruitSynthesis
                 popup.gameObject.SetActive(false);
                 blockImage.SetActive(false);
                 blackImage.SetActive(false);
+                ReviewInGameManager.Ins.AddCount();
             });
         }
         void RestartGame()
         {
             SceneMgr.GetInstance.SwitchingScene(SceneType.SplashPanel);
+            AdsManager.Instance.ShowInterstitial();
             //SceneMgr.GetInstance.SwitchingScene(SceneType.MainPanel);
         }
         void QuitApplication()

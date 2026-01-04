@@ -7,12 +7,26 @@ public class ReviewInGameManager : MonoBehaviour
 {
     public static ReviewInGameManager Ins;
     ReviewManager _reviewManager;
+    public int popupBackedCount = 0;
+    public bool isFourStared = false;
+
+    public static Action OnEnoughPopupCount;
+
     private void Awake()
     {
         DontDestroyOnLoad(this.gameObject);
         Ins = this; 
     }
 
+    public void AddCount()
+    {
+        if (isFourStared) return;
+        popupBackedCount++;
+        if (popupBackedCount >= 3)
+        {
+            popupBackedCount = 0;
+        }
+    }
 
     public void OpenRateUs()
     {

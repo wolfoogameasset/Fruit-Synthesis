@@ -7,22 +7,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:203381572912:ios:12d0491970ad84cfe7b4f5",
+        "mobilesdk_app_id": "1:203381572912:android:9d6a22e2de9e1256e7b4f5",
         "android_client_info": {
           "package_name": "gachamerge.puzzle.characters.matchgame"
         }
       },
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDUfvjVRDaNtxpAL4IwXdWMv9NzzzCTYeU"
+          "current_key": "AIzaSyD8ZXl2Wu_PCAxfAw1KEQl-aWf_-vQM3Bw"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 0
-        },
         "appinvite_service": {
-          "status": 1
+          "other_platform_oauth_client": []
         }
       }
     }

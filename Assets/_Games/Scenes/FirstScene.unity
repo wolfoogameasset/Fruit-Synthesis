@@ -211,6 +211,99 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &612260292
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062633, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062638, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: _idRemoveAds
+      value: sconnect.gacha.merge.removeads
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062638, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: _idUnlockAll
+      value: sconnect.gacha.merge.removeads
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062638, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: _orderInLayer
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062638, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: _sortingLayer
+      value: IAP
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062638, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: _isUsingSubscription
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571734624284062639, guid: b31fb7d71bb75b640a78807ea22126a1,
+        type: 3}
+      propertyPath: m_Name
+      value: IAPManager
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b31fb7d71bb75b640a78807ea22126a1, type: 3}
 --- !u!1001 &1524325879
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -359,3 +452,4 @@ SceneRoots:
   - {fileID: 460075806}
   - {fileID: 1701672006}
   - {fileID: 1524325879}
+  - {fileID: 612260292}
